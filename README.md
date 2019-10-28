@@ -2,7 +2,7 @@
 
 ## Requirements
 
-1 .python 3.5
+1. Python 3.5
 
 2. cuda 9.0
 
