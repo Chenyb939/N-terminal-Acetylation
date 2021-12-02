@@ -1,8 +1,7 @@
 import os
-import dp
+import keras.dp  as dp
 import numpy as np
 import pandas as pd
-
 
 def complex_name(filepath1, filepath2, outdir):
     df1 = pd.read_csv(filepath1)
@@ -35,10 +34,23 @@ def remove_duplication(filepath, filename, outdir):
     new_df = df.drop_duplicates(subset=['gname', 'gsets'], keep='first', inplace=False)
     new_df.to_csv(os.path.join(outdir, 'fin_' + filename), index=False)
 
+def to_fasta_all(filepath, filename, outdir, outname):
+    df = pd.read_csv(os.path.join(filepath, filename))
+    t_file=outdir+'/'+outname
+    # t_file=os.path.join(outdir, outname)
+
+    with open(t_file, 'w') as file:
+        for _, row in df.iterrows():
+            name = str(row['gname'][:-1])
+            set = str(row['gsets'])
+            seq = str(row['gseq'])
+            file.write('>' + name + '\t' + set + '\n')
+            file.write(seq + '\n')
 
 def to_fasta(filepath, filename, outdir, outname, top):
     df = pd.read_csv(os.path.join(filepath, filename))
-    with open(os.path.join(outdir, outname), 'w') as file:
+    t_file = outdir + '/' + outname
+    with open(t_file, 'w') as file:
         for _, row in df.iterrows():
             name = str(row['gname'][:-1])
             set = str(row['gsets'])
@@ -50,7 +62,8 @@ def to_fasta(filepath, filename, outdir, outname, top):
 
 def sub_data(filepath, filename, outdir):
     i = 0
-    df = pd.read_csv(os.path.join(filepath, filename))
+    t_file=filepath+'/'+filename
+    df = pd.read_csv(t_file)
     fileA = open(os.path.join(outdir, 'A.fa'), 'w')
     fileC = open(os.path.join(outdir, 'C.fa'), 'w')
     fileD = open(os.path.join(outdir, 'D.fa'), 'w')
@@ -110,7 +123,8 @@ def sub_data(filepath, filename, outdir):
 
 
 def first_csv(filepath, filename, outdir, num):
-    df = pd.read_csv(os.path.join(filepath, filename))
+    t_file=filepath+'/'+filename
+    df = pd.read_csv(t_file)
     new_df = df[df['gsets'] <= num]
     new_df.to_csv(os.path.join(outdir, 'fin_' + str(num) + '_' + filename), index=False)
 
@@ -119,12 +133,15 @@ def merge_test(filepath, outdir):
     str = ""
     list = ['same.fa', 'Other.fa', 'diff.fa']
     filenames = os.listdir(filepath)
+
     for name in filenames:
         if name not in list:
-            with open(os.path.join(filepath, name), 'r') as filer:
+            t_file = filepath + '/' + name
+            with open(t_file, 'r') as filer:
                 lines = filer.readlines()
                 for line in lines:
                     str = str + line
+    outdir_test_fa=outdir+'/'+'test.fa'
     file = open(os.path.join(outdir, 'test.fa'), 'w')
     file.write(str)
 
@@ -138,13 +155,16 @@ def split_data(filepath, outdir, time, val_rate=0.2):
     files.remove('val')
     for file in files:
         if file.startswith('m'):
-            df = dp.fa_to_df(os.path.join(filepath, file))
+            t_file=filepath+'/'+file
+            df = dp.fa_to_df(t_file)
             df_new = df.sample(frac=1)
             df_val = df_new[0: int(len(df_new) * val_rate)]
             df_train = df_new[int(len(df_new) * val_rate):]
 
-            dp.df_to_fa(df_val, os.path.join(outdir, 'val', str(time), file))
-            dp.df_to_fa(df_train, os.path.join(outdir, 'train', str(time), file))
+            t1_file=outdir+'val/'+str(time)+'/'+file
+            t2_file=outdir+'train/'+str(time)+'/'+file
+            dp.df_to_fa(df_val, t1_file)
+            dp.df_to_fa(df_train,t2_file)
         else:
             continue
 
@@ -152,11 +172,13 @@ def split_data(filepath, outdir, time, val_rate=0.2):
 def add_data(filepath):
     files = dp.findfile(filepath)
     for file in files:
-        if os.path.exists(os.path.join(filepath, 'all.fa')):
-            filew = open(os.path.join(filepath, 'all.fa'), 'a')
+        t_file=filepath+'/'+'all.fa'
+        if os.path.exists(t_file):
+            filew = open(t_file, 'a')
         else:
-            filew = open(os.path.join(filepath, 'all.fa'), 'w')
-        with open(os.path.join(filepath, file), 'r') as filer:
+            filew = open(t_file, 'w')
+        t2_file=filepath+'/'+file
+        with open(t2_file, 'r') as filer:
             lines = filer.readlines()
             for line in lines:
                 filew.write(line)
@@ -275,16 +297,33 @@ if __name__ == '__main__':
     # all data
     # complex_name('/home/chenyb/PTM/data/uniport/2021/data.csv', '/home/chenyb/PTM/data/uniport/2015/data.csv',
     #              '/home/chenyb/PTM/data/uniport')
-
+    #
     # remove_duplication('/home/chenyb/PTM/data/uniport/', 'diff.csv', '/home/chenyb/PTM/data/uniport')
     # remove_duplication('/home/chenyb/PTM/data/uniport/', 'same.csv', '/home/chenyb/PTM/data/uniport')
-
+    #
     # to_fasta('/home/chenyb/PTM/data/uniport/', 'fin_diff.csv', '/home/chenyb/PTM/data/uniport/fasta', 'diff.fa')
     # to_fasta('/home/chenyb/PTM/data/uniport/', 'fin_same.csv', '/home/chenyb/PTM/data/uniport/fasta', 'same.fa')
+
+    outdir='E:/hefei/PTM/data/uniport'
+    outdir_=outdir+'/'
+    # complex_name('E:/hefei/PTM/data/2021/data.csv' , 'E:/hefei/PTM/data/2015/data.csv' , 'E:/hefei/PTM/data/uniport')
+    # remove_duplication(outdir_ , 'diff.csv' , outdir)
+    # remove_duplication(outdir_ , 'same.csv' , outdir)
+
+    outdir_fasta='E:/hefei/PTM/data/uniport/fasta'
+    # to_fasta_all(outdir_ , 'fin_diff.csv' , outdir_fasta , 'diff.fa')
+    # to_fasta_all(outdir_, 'fin_same.csv' , outdir_fasta , 'same.fa')
 
     # sub data
     # sub_data('/home/chenyb/PTM/data/uniport/train', 'fin_same.csv', '/home/chenyb/PTM/data/uniport/train/fasta')
     # sub_data('/home/chenyb/PTM/data/uniport/test', 'fin_diff.csv', '/home/chenyb/PTM/data/uniport/test/fasta')
+
+    outdir_train='E:/hefei/PTM/data/uniport/train'
+    outdir_test='E:/hefei/PTM/data/uniport/test'
+    outdir_train_fasta=outdir_train+'/fasta'
+    outdir_test_fasta=outdir_test+'/fasta'
+    # sub_data(outdir_train , 'fin_same.csv' , outdir_train_fasta)
+    # sub_data(outdir_test , 'fin_diff.csv' , outdir_test_fasta)
 
     # # first 100
     # to_fasta('/home/chenyb/PTM/data/uniport/test/', 'fin_diff.csv',
@@ -298,6 +337,23 @@ if __name__ == '__main__':
     # sub_data('/home/chenyb/PTM/data/uniport/test', 'fin_50_fin_diff.csv',
     #          '/home/chenyb/PTM/data/uniport/test/fasta/first50')
 
+    num=50
+    outdir_test_=outdir_test+'/'
+    outdir_test_fasta_num=outdir_test_fasta+'/first'+str(num)
+    outdir_train_=outdir_train+'/'
+    outdir_train_fasta_num=outdir_train_fasta+'/first'+str(num)
+
+    to_fasta(outdir_test_ , 'fin_diff.csv' ,
+             outdir_test_fasta_num , 'diff.fa' , num)
+    to_fasta(outdir_train_, 'fin_same.csv' ,
+             outdir_train_fasta_num , 'same.fa' , num)
+    first_csv(outdir_test_ , 'fin_diff.csv' , outdir_test_ , num)
+    first_csv(outdir_train_ , 'fin_same.csv' , outdir_train_ ,num)
+    sub_data(outdir_train , 'fin_'+str(num)+'_fin_same.csv' ,
+             outdir_train_fasta_num)
+    sub_data(outdir_test , 'fin_'+str(num)+'_fin_diff.csv' ,
+             outdir_test_fasta_num)
+
     # # merge test data
     # merge_test('/home/chenyb/PTM/data/uniport/test/fasta/first50', '/home/chenyb/PTM/data/uniport/test/fasta/first50')
     # merge_test('/home/chenyb/PTM/data/uniport/train/fasta/first50', '/home/chenyb/PTM/data/uniport/train/fasta/first50')
@@ -305,7 +361,23 @@ if __name__ == '__main__':
     # merge_fa('/home/chenyb/PTM/data/uniport/train/fasta/first50/')
     # merge_fa('/home/chenyb/PTM/data/uniport/test/fasta/first50/')
 
-    for time in range(5):
-        split_data('/home/chenyb/PTM/data/uniport/train/fasta/first50', '/home/chenyb/PTM/data/uniport/train/fasta/first50', time, val_rate=0.2)
-        add_data(os.path.join('/home/chenyb/PTM/data/uniport/train/fasta/first50/train', str(time)))
-        add_data(os.path.join('/home/chenyb/PTM/data/uniport/train/fasta/first50/val', str(time)))
+    outdir_train_fasta_num_=outdir_train_fasta_num+'/'
+    outdir_test_fasta_num_=outdir_test_fasta_num+'/'
+    merge_test(outdir_test_fasta_num, outdir_test_fasta_num )
+    merge_test(outdir_train_fasta_num ,
+               outdir_train_fasta_num)
+
+    merge_fa(outdir_train_fasta_num_)
+    merge_fa(outdir_test_fasta_num_)
+
+    #交叉验证
+    # for time in range(5):
+    #     split_data('/home/chenyb/PTM/data/uniport/train/fasta/first50', '/home/chenyb/PTM/data/uniport/train/fasta/first50', time, val_rate=0.2)
+    #     add_data(os.path.join('/home/chenyb/PTM/data/uniport/train/fasta/first50/train', str(time)))
+    #     add_data(os.path.join('/home/chenyb/PTM/data/uniport/train/fasta/first50/val', str(time)))
+
+    # for time in range(5):
+    #     split_data(outdir_train_fasta_num, outdir_train_fasta_num_, time, val_rate=0.2)
+    #     add_data(outdir_train_fasta_num_+'train')
+    #     add_data(outdir_train_fasta_num_+'val')
+
