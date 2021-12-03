@@ -303,27 +303,28 @@ if __name__ == '__main__':
     #
     # to_fasta('/home/chenyb/PTM/data/uniport/', 'fin_diff.csv', '/home/chenyb/PTM/data/uniport/fasta', 'diff.fa')
     # to_fasta('/home/chenyb/PTM/data/uniport/', 'fin_same.csv', '/home/chenyb/PTM/data/uniport/fasta', 'same.fa')
-
-    outdir='E:/hefei/PTM/data/uniport'
-    outdir_=outdir+'/'
-    # complex_name('E:/hefei/PTM/data/2021/data.csv' , 'E:/hefei/PTM/data/2015/data.csv' , 'E:/hefei/PTM/data/uniport')
-    # remove_duplication(outdir_ , 'diff.csv' , outdir)
-    # remove_duplication(outdir_ , 'same.csv' , outdir)
-
-    outdir_fasta='E:/hefei/PTM/data/uniport/fasta'
-    # to_fasta_all(outdir_ , 'fin_diff.csv' , outdir_fasta , 'diff.fa')
-    # to_fasta_all(outdir_, 'fin_same.csv' , outdir_fasta , 'same.fa')
-
     # sub data
     # sub_data('/home/chenyb/PTM/data/uniport/train', 'fin_same.csv', '/home/chenyb/PTM/data/uniport/train/fasta')
     # sub_data('/home/chenyb/PTM/data/uniport/test', 'fin_diff.csv', '/home/chenyb/PTM/data/uniport/test/fasta')
 
+    outdir='E:/hefei/PTM/data/uniport'
+    outdir_=outdir+'/'
+    complex_name('E:/hefei/PTM/data/2021/data.csv' , 'E:/hefei/PTM/data/2015/data.csv' , 'E:/hefei/PTM/data/uniport')
+    remove_duplication(outdir_ , 'diff.csv' , outdir)
+    remove_duplication(outdir_ , 'same.csv' , outdir)
+
+    outdir_fasta='E:/hefei/PTM/data/uniport/fasta'
+    to_fasta_all(outdir_ , 'fin_diff.csv' , outdir_fasta , 'diff.fa')
+    to_fasta_all(outdir_, 'fin_same.csv' , outdir_fasta , 'same.fa')
+
+
+    #sub_data
     outdir_train='E:/hefei/PTM/data/uniport/train'
     outdir_test='E:/hefei/PTM/data/uniport/test'
     outdir_train_fasta=outdir_train+'/fasta'
     outdir_test_fasta=outdir_test+'/fasta'
-    # sub_data(outdir_train , 'fin_same.csv' , outdir_train_fasta)
-    # sub_data(outdir_test , 'fin_diff.csv' , outdir_test_fasta)
+    sub_data(outdir_train , 'fin_same.csv' , outdir_train_fasta)
+    sub_data(outdir_test , 'fin_diff.csv' , outdir_test_fasta)
 
     # # first 100
     # to_fasta('/home/chenyb/PTM/data/uniport/test/', 'fin_diff.csv',
