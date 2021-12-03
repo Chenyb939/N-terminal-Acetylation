@@ -15,12 +15,13 @@ def get_data(filename, outdir, sign):
                 'amide nitrogen', 'Microbial infection', 'ATG7', 'sulfatase', 'oxidase', 'hydrolase', 'lyase',
                 'dipeptidase', 'transaminase', 'de-N-acetylase', 'synthetase', 'phosphorylase', 'phosphatase',
                 'Inactive', 'phosphatidylinositol', 'EIIBC', 'transacetylase', 'IIC', 'IID', 'S-', 'Not',
-                'Prevents', 'Decreased', 'Reduces', 'effect', 'acetylneuraminate', 'acetylglutamate', 'glutamate']
+                'Prevents', 'Decreased', 'Reduces', 'effect', 'acetylneuraminate', 'acetylglutamate', 'glutamate', 'galactosamine']
     with open(filename) as handle:
         records = SwissProt.parse(handle)
         for record in records:
             gann = record.features
             for i in range(len(gann)):
+
                 ann = gann[i].qualifiers['description']
                 pattern = re.compile(sign)
                 if pattern.search(ann) == None:
@@ -39,7 +40,34 @@ def get_data(filename, outdir, sign):
                         d_dict = {"gname": gname, "gsets": gsets, "gsete": gsete, "gann": ann, "gseq": gseq}
                         df = df.append(d_dict, ignore_index=True)
         df.to_csv(os.path.join(outdir, 'data.csv'), index=False)
-
+    # with open(filename) as handle:
+    #     records = SwissProt.parse(handle)
+    #
+    #     for record in records:
+    #         gann = record.features
+    #         for i in range(len(gann)):
+    #             try:
+    #                 ann = gann[i].qualifiers['note']
+    #                 pattern = re.compile(sign)
+    #                 if pattern.search(ann) == None:
+    #                     continue
+    #                 else:
+    #                     if any(str in ann for str in non_list):
+    #                         pass
+    #                     else:
+    #                         gname = ''
+    #                         for name in record.accessions:
+    #                             gname += str(name) + ','
+    #                         a = record.features[i].location.nofuzzy_start
+    #                         gsets = record.features[i].location.nofuzzy_start + 1
+    #                         gsete = record.features[i].location.nofuzzy_end
+    #                         gseq = record.sequence
+    #                         d_dict = {"gname": gname, "gsets": gsets, "gsete": gsete, "gann": ann, "gseq": gseq}
+    #                         df = df.append(d_dict, ignore_index=True)
+    #             except:
+    #                 continue
+    #     df.to_csv(os.path.join(outdir, 'data.csv'), index=False)
 
 if __name__ == '__main__':
-    get_data("/home/chenyb/PTM/data/uniport/2015/data.dat", '/home/chenyb/PTM/data/uniport/2015/', 'N?-acetyl')
+    # get_data("/home/chenyb/PTM/data/uniport/2015/data.dat", '/home/chenyb/PTM/data/uniport/2015/', 'N?-acetyl')
+    get_data("E:/hefei/PTM/data/2015/uniprot_sprot-only2015_04/uniprot_sprot_dat/uniprot_sprot.dat", 'E:/hefei/PTM/data/2015/', 'N?-acetyl')
