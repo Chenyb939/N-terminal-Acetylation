@@ -1,0 +1,1571 @@
+In the Acetylation column, Ac and unAc represents Acetylated and Unacetylated respectively.
+
+*************** Prediction results ***************
+ID	Sequence	Acetylation	Supplement
+Q572D3	48	RLAIMLSATA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+D0NPN8	48	RLAIMLSATA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+E2DWQ7	48	RLAIMLSATA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+B1WC61	45	SGYVLFSRGA	Ac	
+B1WC61	525	SGYVLFSRGA	Ac	
+Q9NR19,A6NE90,Q5QPH2,Q5QPH3,Q8N238,Q96EL0,Q9NQP7,Q9UJ15	661	GLPEERVRSG	unAc	
+Q9QXG4,Q8BK97	661	GLPEERRKSG	unAc	
+A0A0G2K047	520	KPSWLQCRKV	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q9Z103,A2BDX0	1041	FQLPVNNLGS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q9Z103,A2BDX0	1048	FQLPVNNLGS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q9JKL8,G3V7G3	1036	FQLPVNNLGS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q9JKL8,G3V7G3	1043	FQLPVNNLGS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q53H12,Q75KN1,Q96GC3,Q9NP48	6	TVFFKTLRNH	unAc	
+Q9ESW4,Q9D087	6	TAFFKTLRNH	unAc	
+Q5RED7	6	TVFFKTLRNH	unAc	
+O70473	126	ASCVLLHTGQ	Ac	
+C9JRZ8,C9J3V2	125	ATFVELSTKA	Ac	
+C9JRZ8,C9J3V2	263	ATFVELSTKA	Ac	
+P15437	91	SSSGTPDLPV	Ac	
+P15437	128	SSSGTPDLPV	Ac	
+P15437	252	SSSGTPDLPV	Ac	
+P15437	353	SSSGTPDLPV	Ac	
+P15437	367	SSSGTPDLPV	Ac	
+P15437	410	SSSGTPDLPV	Ac	
+P15437	419	SSSGTPDLPV	Ac	
+P15437	435	SSSGTPDLPV	Ac	
+P15437	495	SSSGTPDLPV	Ac	
+P86886	91	SSPAQPEVPA	Ac	
+P86886	128	SSPAQPEVPA	Ac	
+P86886	252	SSPAQPEVPA	Ac	
+P86886	353	SSPAQPEVPA	Ac	
+P86886	367	SSPAQPEVPA	Ac	
+P86886	410	SSPAQPEVPA	Ac	
+P86886	419	SSPAQPEVPA	Ac	
+P86886	435	SSPAQPEVPA	Ac	
+P86886	495	SSPAQPEVPA	Ac	
+Q29228,A0A286ZNV5	30	STGTFIVSQP	Ac	
+Q29228,A0A286ZNV5	298	STGTFIVSQP	Ac	
+Q29228,A0A286ZNV5	303	STGTFIVSQP	Ac	
+Q29228,A0A286ZNV5	344	STGTFIVSQP	Ac	
+P81178	390	AAATSAVPAP	Ac	
+P11884,Q6Q288,Q6Q289,Q6Q290,Q8K3V8,Q91ZD7	409	LRAALSTARR	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P04075,B4DXI7,Q6FH76,Q6FI10,Q96B15,Q9BWD9,Q9UCN2	111	PYQYPALTPE	unAc	
+P05064	111	PHPYPALTPE	unAc	
+A5A6I5	111	PYQYPALTPE	unAc	
+Q5NVR5	111	PYQYPALTPE	unAc	
+P00883,Q28671	111	PHSHPALTPE	unAc	
+P05065,Q63038	111	PHPYPALTPE	unAc	
+P28839,I3LD43	221	FLLPLPAAAR	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P28839,I3LD43	455	FLLPLPAAAR	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P28839,I3LD43	489	FLLPLPAAAR	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q99873,A0A087X1W2,B4E3C3,G5E9B6,H7C2I1,Q15529,Q2VP93,Q6LEU5,Q8WUW5,Q99872,Q99874,Q9NZ04,Q9NZ05,Q9NZ06	228	AAAEAANCIM	Ac	
+Q99873,A0A087X1W2,B4E3C3,G5E9B6,H7C2I1,Q15529,Q2VP93,Q6LEU5,Q8WUW5,Q99872,Q99874,Q9NZ04,Q9NZ05,Q9NZ06	233	AAAEAANCIM	Ac	
+Q9JIF0,Q99LS4	228	AAAEAANCIM	Ac	
+Q9JIF0,Q99LS4	233	AAAEAANCIM	Ac	
+Q63009	210	AAAEAANCIM	Ac	
+Q63009	215	AAAEAANCIM	Ac	
+E9Q4N7	1785	ETGLLPNHKL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P14568,Q3T0A7	112	SGKGSVVLAY	Ac	
+P14568,Q3T0A7	165	SGKGSVVLAY	Ac	
+P14568,Q3T0A7	176	SGKGSVVLAY	Ac	
+P00966,Q6LDL2,Q86UZ0,Q96GT4	112	SSKGSVVLAY	Ac	
+P00966,Q6LDL2,Q86UZ0,Q96GT4	165	SSKGSVVLAY	Ac	
+P00966,Q6LDL2,Q86UZ0,Q96GT4	176	SSKGSVVLAY	Ac	
+P16460	112	SSKGSVVLAY	Ac	
+P16460	165	SSKGSVVLAY	Ac	
+P16460	176	SSKGSVVLAY	Ac	
+P09034	112	SSKGSVVLAY	Ac	
+P09034	165	SSKGSVVLAY	Ac	
+P09034	176	SSKGSVVLAY	Ac	
+Q5VTU8	21	VAYWRQAGLS	unAc	
+Q3ZCH6	308	AEMSFLSSEV	Ac	
+P18848,Q96AQ3,Q9UH31	311	TEMSFLSSEV	unAc	
+Q06507,Q5U4B2,Q61906	309	TEMSFLNSEV	unAc	
+Q9ES19	307	TEMSFLNSEV	unAc	
+Q9Y2D1,B3KND3,Q9BSA1,Q9UNQ3	29	SLLATLGLEL	Ac	
+O70191,Q58E51,Q99NH6	29	SLLATLGLEL	Ac	
+Q6P788,Q8CIT6	29	SLLATLGLEL	Ac	
+Q51LD2,A4RBA2,G4NLC0,Q2KFF3	262	NSLYSVVNTL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q51LD2,A4RBA2,G4NLC0,Q2KFF3	267	NSLYSVVNTL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q51WZ9,A4QUK6,G4N1A4	621	ASNIFSRLVP	Ac	
+P13620,Q3SX10	32	AGRKLALKTI	Ac	
+P13620,Q3SX10	48	AGRKLALKTI	Ac	
+P13620,Q3SX10	63	AGRKLALKTI	Ac	
+P13620,Q3SX10	72	AGRKLALKTI	Ac	
+P13620,Q3SX10	78	AGRKLALKTI	Ac	
+P13620,Q3SX10	144	AGRKLALKTI	Ac	
+O75947,B2R5L6,Q9H3J4	32	AGRKLALKTI	Ac	
+O75947,B2R5L6,Q9H3J4	63	AGRKLALKTI	Ac	
+O75947,B2R5L6,Q9H3J4	72	AGRKLALKTI	Ac	
+O75947,B2R5L6,Q9H3J4	78	AGRKLALKTI	Ac	
+O75947,B2R5L6,Q9H3J4	144	AGRKLALKTI	Ac	
+Q9DCX2,B1ASE1,Q542H1,Q7M0I0,Q91YK9	32	AGRKLALKTI	Ac	
+Q9DCX2,B1ASE1,Q542H1,Q7M0I0,Q91YK9	48	AGRKLALKTI	Ac	
+Q9DCX2,B1ASE1,Q542H1,Q7M0I0,Q91YK9	63	AGRKLALKTI	Ac	
+Q9DCX2,B1ASE1,Q542H1,Q7M0I0,Q91YK9	72	AGRKLALKTI	Ac	
+Q9DCX2,B1ASE1,Q542H1,Q7M0I0,Q91YK9	78	AGRKLALKTI	Ac	
+Q9DCX2,B1ASE1,Q542H1,Q7M0I0,Q91YK9	144	AGRKLALKTI	Ac	
+P31399	32	AGRKLALKTI	Ac	
+P31399	48	AGRKLALKTI	Ac	
+P31399	63	AGRKLALKTI	Ac	
+P31399	78	AGRKLALKTI	Ac	
+P31399	144	AGRKLALKTI	Ac	
+F1LU71	76	AAAAAPGALG	Ac	
+F1LU71	89	AAAAAPGALG	Ac	
+F1LU71	120	AAAAAPGALG	Ac	
+F1LU71	180	AAAAAPGALG	Ac	
+F1LU71	187	AAAAAPGALG	Ac	
+E9Q6J5,O35243,Q3TR39,Q3USW6,Q80TF0,Q8BHG7	471	ATNPQPQPPP	Ac	
+E9Q6J5,O35243,Q3TR39,Q3USW6,Q80TF0,Q8BHG7	534	ATNPQPQPPP	Ac	
+F8VPZ9	1067	DDEDGRCLLD	Ac	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q0VCX2,A7E3V5	272	KLSLVAAVLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+G3I8R9	125	KFPMVAAALL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+G3I8R9	213	KFPMVAAALL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+G3I8R9	271	KFPMVAAALL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+G3I8R9	326	KFPMVAAALL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+G3I8R9	353	KFPMVAAALL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P11021,B0QZ61,Q2EF78,Q9NPF1,Q9UK02	271	KLSLVAAMLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q3S4T7	271	KLSLVAAVLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P07823	271	KFPMVAAALL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P20029,O35642,Q3UFF2,Q61630	272	MKFTVVAAAL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q5R4P0	271	KLSLVAAMLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P06761	271	KFTVVAAALL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+E3SCZ8	23	GAPSLPRAWQ	unAc	
+E3SCZ8	90	GAPSLPRAWQ	unAc	
+E3SCZ8	110	GAPSLPRAWQ	unAc	
+E3SCZ8	112	GAPSLPRAWQ	unAc	
+E3SCZ8	115	GAPSLPRAWQ	unAc	
+G5E8P1,E9PZ26,Q571F6,Q8BU83	368	RRKGRCHRGS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+G5E8P1,E9PZ26,Q571F6,Q8BU83	516	RRKGRCHRGS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+G5E8P1,E9PZ26,Q571F6,Q8BU83	519	RRKGRCHRGS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+G5E8P1,E9PZ26,Q571F6,Q8BU83	903	RRKGRCHRGS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+A2VDP1	21	SGIGSKRAAG	Ac	
+A2VDP1	510	SGIGSKRAAG	Ac	
+Q5VTR2,A7MCT5,Q2TB34,Q69YL5,Q6P527,Q8N3J4,Q96JD3,Q9H9Y7,Q9HA51,Q9NUR4,Q9NWQ3,Q9NX83	21	SGIGNKRAAG	Ac	
+Q5VTR2,A7MCT5,Q2TB34,Q69YL5,Q6P527,Q8N3J4,Q96JD3,Q9H9Y7,Q9HA51,Q9NUR4,Q9NWQ3,Q9NX83	510	SGIGNKRAAG	Ac	
+Q5DTM8,A2AIR3,Q3UT10,Q3V350,Q7TT11,Q8BKA8,Q8BKN8,Q8BUF7,Q8BVU4	21	SGIGNKRAAG	Ac	
+Q5DTM8,A2AIR3,Q3UT10,Q3V350,Q7TT11,Q8BKA8,Q8BKN8,Q8BUF7,Q8BVU4	510	SGIGNKRAAG	Ac	
+O75150,A0A024QZG0,Q6AHZ6,Q6N005,Q7L3T6,Q8N615,Q96T18,Q9BSV9,Q9HC82	355	SGPGNKRAAG	Ac	
+Q4R7K7	355	SGLGNKRAAG	Ac	
+Q3U319,Q6ZQ75,Q8BJA1,Q8BY03,Q8CHX4	355	SGLSNKRAAG	Ac	
+Q5RAU7,Q5RAD3	355	SGPSNKRAAG	Ac	
+Q8CJB9	356	SGLSNKRAAG	Ac	
+P55201,B4DEZ6,Q7Z6E0,Q8TCM6,Q9UHI0	147	GVDFDVKTFC	unAc	
+P55201,B4DEZ6,Q7Z6E0,Q8TCM6,Q9UHI0	580	GVDFDVKTFC	unAc	
+B2RRD7	147	GVDFDVKTFC	unAc	
+B2RRD7	579	GVDFDVKTFC	unAc	
+B2KF05,A0A3B2WAQ0,Q3TRM7	445	RKPRRKSRQN	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+B2KF05,A0A3B2WAQ0,Q3TRM7	447	RKPRRKSRQN	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+B2KF05,A0A3B2WAQ0,Q3TRM7	670	RKPRRKSRQN	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q6PGH1,E0CX20	125	PKVKRSRKAP	unAc	
+P52826	262	DRKQKQAEKA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P52826	269	DRKQKQAEKA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q86UT8	31	APAQRCPLCR	unAc	
+Q4VA36,Q3TAL6,Q7TNQ4,Q8C702	31	APPQRCPLCR	unAc	
+P83205,S5FR89,W5Q0Z2	220	WQLLATLSCL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+O02755	43	QRLVVWDPVC	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+O02755	129	QRLVVWDPVC	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+O02755	132	QRLVVWDPVC	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+O02755	133	QRLVVWDPVC	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P17676,A8K671,Q96IH2,Q9H4Z5	43	QRLVAWDPAC	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P17676,A8K671,Q96IH2,Q9H4Z5	129	QRLVAWDPAC	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P17676,A8K671,Q96IH2,Q9H4Z5	132	QRLVAWDPAC	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P17676,A8K671,Q96IH2,Q9H4Z5	133	QRLVAWDPAC	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P28033	39	HRLLAWDAAC	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P28033	98	HRLLAWDAAC	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P28033	101	HRLLAWDAAC	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P28033	102	HRLLAWDAAC	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P21272,A2VD03	39	HRLLAWDAAC	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P21272,A2VD03	99	HRLLAWDAAC	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P21272,A2VD03	102	HRLLAWDAAC	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P21272,A2VD03	103	HRLLAWDAAC	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P49454,Q13171,Q13246,Q5VVM7	2779	SWALEEWKEG	Ac	
+E1BGN7	375	APPRRKATRK	unAc	
+E1BGN7	385	APPRRKATRK	unAc	
+Q8N884,L0L2J9,Q14CV6,Q32NC9,Q5SWL0,Q5SWL1,Q96E45	50	QPWHGKAMQR	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q8N884,L0L2J9,Q14CV6,Q32NC9,Q5SWL0,Q5SWL1,Q96E45	384	QPWHGKAMQR	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q8N884,L0L2J9,Q14CV6,Q32NC9,Q5SWL0,Q5SWL1,Q96E45	392	QPWHGKAMQR	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q8N884,L0L2J9,Q14CV6,Q32NC9,Q5SWL0,Q5SWL1,Q96E45	394	QPWHGKAMQR	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q8C6L5,Q3ULW3	372	EDPRRRTTAP	Ac	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q8C6L5,Q3ULW3	382	EDPRRRTTAP	Ac	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+I3LM39	359	AARRGKSTRT	Ac	
+I3LM39	369	AARRGKSTRT	Ac	
+P04973,Q17QD2	218	AELDPFGVPA	Ac	
+P09496,A8K4W3,B4DIN1,F5H6N3,Q2XPN5,Q53XZ1	223	AELDPFGAPA	Ac	
+O08585	210	AELDPFGAPA	Ac	
+P08081	223	AELDPFGAPA	Ac	
+Q9XSA7,Q3ZBJ4	24	ALSMPLNGLK	Ac	
+Q9Y696,Q9UFW9,Q9UQJ6	24	ALSMPLNGLK	Ac	
+Q9QYB1,Q8BMG5	24	ALSMPLNGLK	Ac	
+Q5R957	24	ALSMPLNGLK	Ac	
+Q9Z0W7	24	ALSMPLNGLK	Ac	
+P20812	379	LASGLLLVAS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P15392,Q91XG2	379	LTSGLLLVAA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P20852	379	LTSGLLLVAA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q05555	379	LASGLLLAAL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q05556	379	LASGLLLAAL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+E9Q5K4,Q6IEF7,Q8BWN7,Q8QZW4	253	ELLGLPTLAL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+E9Q5K4,Q6IEF7,Q8BWN7,Q8QZW4	379	ELLGLPTLAL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q08DB4	171	AHCVTLVQLS	Ac	
+D4A1R8,D3ZSJ8,H1UBM6	170	AHCVTLVQLS	Ac	
+A0A140G945,E9PHE4	70	DVTIQHPWFK	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+A0A140G945,E9PHE4	99	DVTIQHPWFK	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q32LE9	131	PVWGGGNKCG	unAc	
+Q32LE9	137	PVWGGGNKCG	unAc	
+Q32LE9	161	PVWGGGNKCG	unAc	
+Q16527,Q93030	131	PVWGGGNKCG	unAc	
+Q16527,Q93030	137	PVWGGGNKCG	unAc	
+Q16527,Q93030	161	PVWGGGNKCG	unAc	
+P97314,Q9CZG5	131	PVWGGGNKCG	unAc	
+P97314,Q9CZG5	137	PVWGGGNKCG	unAc	
+P97314,Q9CZG5	161	PVWGGGNKCG	unAc	
+Q62908	131	PVWGGGNKCG	unAc	
+Q62908	137	PVWGGGNKCG	unAc	
+Q62908	161	PVWGGGNKCG	unAc	
+Q0VCX4,A7E3R2	49	ATQADLMELD	Ac	
+B6V8E6	49	ATQADLMELD	Ac	
+P35222,A8K1L7,Q8NEW9,Q8NI94,Q9H391	49	ATQADLMELD	Ac	
+Q02248,Q922W1,Q9D335	49	ATQADLMELD	Ac	
+Q9WU82	49	ATQADLMELD	Ac	
+O43169,A8K6B1,J3KNF8,Q96CC3,Q9BT35	34	SGSMATAEAS	Ac	
+Q5RDJ5	34	SGSMATAEAS	Ac	
+P00003	73	GDVEKGKRIF	Ac	
+P00003	100	GDVEKGKRIF	Ac	
+P62894,P00006,Q2KJD4	73	GDVEKGKKIF	Ac	
+P62894,P00006,Q2KJD4	100	GDVEKGKKIF	Ac	
+P68099,P00010	73	GDVEKGKKIF	Ac	
+P68099,P00010	100	GDVEKGKKIF	Ac	
+P00011	73	GDVEKGKKIF	Ac	
+P00011	100	GDVEKGKKIF	Ac	
+Q52V09	73	GDVEKGKKIF	Ac	
+Q52V09	100	GDVEKGKKIF	Ac	
+P68097,P00005	73	GDVEKGKKIF	Ac	
+P68097,P00005	100	GDVEKGKKIF	Ac	
+P68096,P00005	73	GDVEKGKKIF	Ac	
+P68096,P00005	100	GDVEKGKKIF	Ac	
+P68100,P00010	73	GDVEKGKKIF	Ac	
+P68100,P00010	100	GDVEKGKKIF	Ac	
+Q6WUX8	73	GDVEKGKKIF	Ac	
+Q6WUX8	100	GDVEKGKKIF	Ac	
+P00007	73	GDVEKGKKIF	Ac	
+P00007	100	GDVEKGKKIF	Ac	
+P00004	73	GDVEKGKKIF	Ac	
+P00004	100	GDVEKGKKIF	Ac	
+P99999,A4D166,B2R4I1,P00001,Q6NUR2,Q6NX69,Q96BV4	73	GDVEKGKKIF	Ac	
+P99999,A4D166,B2R4I1,P00001,Q6NUR2,Q6NX69,Q96BV4	100	GDVEKGKKIF	Ac	
+P68098,P00010	73	GDVEKGKKIF	Ac	
+P68098,P00010	100	GDVEKGKKIF	Ac	
+P00014	73	GDVEKGKKIF	Ac	
+P00014	100	GDVEKGKKIF	Ac	
+P00002	73	GDVEKGKKIF	Ac	
+P00002	100	GDVEKGKKIF	Ac	
+Q52V08	73	GDVEKGKKIF	Ac	
+Q52V08	100	GDVEKGKKIF	Ac	
+P00013	73	GDVEKGKKIF	Ac	
+P00013	100	GDVEKGKKIF	Ac	
+P00012	73	GDVEKGKKIF	Ac	
+P00012	100	GDVEKGKKIF	Ac	
+P62897,P00009,Q8C2S2	73	GDVEKGKKIF	Ac	
+P62897,P00009,Q8C2S2	100	GDVEKGKKIF	Ac	
+B4USV4	73	SDIEKGKKIF	Ac	
+B4USV4	100	SDIEKGKKIF	Ac	
+P99998,P00001,Q96BV4	73	GDVEKGKKIF	Ac	
+P99998,P00001,Q96BV4	100	GDVEKGKKIF	Ac	
+P62895,P00006,Q56P24	73	GDVEKGKKIF	Ac	
+P62895,P00006,Q56P24	100	GDVEKGKKIF	Ac	
+Q5RFH4	73	GDVEKGKKIF	Ac	
+Q5RFH4	100	GDVEKGKKIF	Ac	
+P00008	73	GDVEKGKKIF	Ac	
+P00008	100	GDVEKGKKIF	Ac	
+P62898,P00009,Q8C2S2	73	GDVEKGKKIF	Ac	
+P62898,P00009,Q8C2S2	100	GDVEKGKKIF	Ac	
+Q52V10	73	GDVEKGKRIF	Ac	
+Q52V10	100	GDVEKGKRIF	Ac	
+P62896,P00006	73	GDVEKGKKIF	Ac	
+P62896,P00006	100	GDVEKGKKIF	Ac	
+Q7YR71	73	GDVEKGKKIL	Ac	
+Q7YR71	100	GDVEKGKKIL	Ac	
+Q92841,B1AHM0,H3BLZ8,Q69YT1,Q6ICD6	108	PTGFVAPILC	unAc	
+Q92841,B1AHM0,H3BLZ8,Q69YT1,Q6ICD6	109	PTGFVAPILC	unAc	
+Q92841,B1AHM0,H3BLZ8,Q69YT1,Q6ICD6	121	PTGFVAPILC	unAc	
+Q501J6,Q6P5G1,Q8BIN2	29	RGGGFGDRDR	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q501J6,Q6P5G1,Q8BIN2	30	RGGGFGDRDR	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q501J6,Q6P5G1,Q8BIN2	42	RGGGFGDRDR	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q9NR30,B2RDL0,Q13436,Q5VX41,Q68D35	18	PGKLRSDAGL	unAc	
+Q9NR30,B2RDL0,Q13436,Q5VX41,Q68D35	137	PGKLRSDAGL	unAc	
+Q9NR30,B2RDL0,Q13436,Q5VX41,Q68D35	600	PGKLRSDAGL	unAc	
+Q9JIK5,Q3TVJ3,Q9WV45	134	PGKLRSGAKL	unAc	
+Q9JIK5,Q3TVJ3,Q9WV45	672	PGKLRSGAKL	unAc	
+Q3B8Q1	135	PGKLRSASKS	unAc	
+Q3B8Q1	596	PGKLRSASKS	unAc	
+P42174	84	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P42174	90	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P42174	110	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P42174	162	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P42174	171	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P42174	183	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P42174	187	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P42174	191	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P42174	211	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P42174	326	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P42174	346	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P42174	352	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P42174	363	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P42174	365	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P42174	386	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P42174	390	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P42174	399	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P42174	415	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P42174	457	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P42174	477	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P42174	480	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P42174	503	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P42174	527	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P42174	545	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P42174	548	YRCLGEALLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q05B79	949	SYDYHQNWGR	Ac	
+D4A2Z8	939	SYDYHQSWSR	Ac	
+F1M775	1050	EPSGGGLGPG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+F1M775	1096	EPSGGGLGPG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P03004,P78122,Q2M814	178	SLSLWQQCLA	Ac	
+D4A7V9	1259	AGGRGAAGRG	Ac	
+Q5VTE0	165	GKEKTHINIV	unAc	
+Q5VTE0	172	GKEKTHINIV	unAc	
+Q5VTE0	273	GKEKTHINIV	unAc	
+Q5VTE0	392	GKEKTHINIV	unAc	
+Q5VTE0	439	GKEKTHINIV	unAc	
+P49410,Q0VCL4	361	AAATLLRATP	Ac	
+P49411,O15276	361	AAATLLRATP	Ac	
+P86251	161	KPHVNVGTIG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q8BFR5,Q497E7,Q6P919	361	AAATLLRATP	Ac	
+P85834	361	AAATLLRATP	Ac	
+P11161,B2R724,B3KRD7,Q68CZ5,Q8IV26,Q9UNA6	247	MTAKAVDKIP	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P08152	247	MTAKAVDKIP	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+A1XSY8	246	MTAKAVDKIP	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P51774,Q54AG4	247	MTAKAVDKIP	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+O75477,B0QZ42,D3DR65,Q53HV0	269	NMTQARVLVA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q91X78,A0A0R4J1G5,Q3UKI9,Q8CIH7	269	NMTQARLLVA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q5RCJ9	269	NMTQARVLVA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q1RMU4	267	AQLGAVVAVA	Ac	
+O94905,A0JLQ1,A8K5S9,B4DM38,D3DSW0,Q6NW21,Q86VS6,Q86W49	267	AQLGAVVAVA	Ac	
+Q8BFZ9,Q8BML8	267	AQLGAVVAVA	Ac	
+Q5R7C5,Q5RBV6	267	AQLGAVVAVA	Ac	
+B5DEH2	267	AQLGAVVAVA	Ac	
+O60645,Q6P2E8,Q8TEN6,Q8WUW0,Q96DI4	28	KETDREAVAT	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P22087,B5BUE8,O75259,Q6IAT5,Q9UPI6	102	KPGFSPRGGG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P22087,B5BUE8,O75259,Q6IAT5,Q9UPI6	121	KPGFSPRGGG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P22087,B5BUE8,O75259,Q6IAT5,Q9UPI6	205	KPGFSPRGGG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P22087,B5BUE8,O75259,Q6IAT5,Q9UPI6	206	KPGFSPRGGG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P35550,Q99L58	108	KPGFSPRGGG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P35550,Q99L58	127	KPGFSPRGGG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P35550,Q99L58	211	KPGFSPRGGG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P35550,Q99L58	212	KPGFSPRGGG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P22509,Q4KLH8	108	KPGFSPRGGG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P22509,Q4KLH8	127	KPGFSPRGGG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P22509,Q4KLH8	211	KPGFSPRGGG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P22509,Q4KLH8	212	KPGFSPRGGG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q9XT11	28	TTDEGAKNSR	unAc	
+Q95L05	28	TTDEGAKNSG	unAc	
+Q95L05	155	TTDEGAKNSG	unAc	
+Q13451,F5H7R1,Q59EB8,Q5TGM6	28	TTDEGAKNNE	unAc	
+Q13451,F5H7R1,Q59EB8,Q5TGM6	155	TTDEGAKNNE	unAc	
+Q64378	28	TTDEGTSNNG	unAc	
+Q64378	155	TTDEGTSNNG	unAc	
+Q9XSI2	28	TTDEGAKSSR	unAc	
+Q9XSH5	28	TTDEGAKNSR	unAc	
+F1PLN3	215	KRTPTAEERE	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P10173,A0A287AR55	63	DRALRLLARS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P10173,A0A287AR55	68	DRALRLLARS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P10173,A0A287AR55	82	DRALRLLARS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P10173,A0A287AR55	96	DRALRLLARS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P10173,A0A287AR55	117	DRALRLLARS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P10173,A0A287AR55	124	DRALRLLARS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P10173,A0A287AR55	215	DRALRLLARS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P10173,A0A287AR55	258	DRALRLLARS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P10173,A0A287AR55	294	DRALRLLARS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P10173,A0A287AR55	504	DRALRLLARS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+D3ZIE4	13	DGKTDVKSLM	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P97324,Q0VB18	89	AEQVTLSRTQ	Ac	
+P97324,Q0VB18	171	AEQVTLSRTQ	Ac	
+P97324,Q0VB18	432	AEQVTLSRTQ	Ac	
+P50309	454	TSLTQNRYFQ	unAc	
+P06744,B4DG39,Q9BRD3,Q9BSK5,Q9UHE6	454	AALTRDPQFQ	Ac	
+Q4R591	454	AALTRDPQFQ	Ac	
+P06745,O89062,Q3TEE7,Q3TW50,Q3UUX1,Q3UY84,Q3UZJ1,Q5RJI3,Q8C675,Q9JM07	454	AALTRNPQFQ	Ac	
+P08059,Q29556	454	AALTQNPQFK	Ac	
+Q5R4E3	454	AALTRDPQFQ	Ac	
+Q9N1E2,Q9N184	454	AALTRNPQFQ	Ac	
+Q6P6V0	454	AALTRNPEFQ	Ac	
+Q1RMI3	69	SLVDLGKKLL	Ac	
+Q1RMI3	340	SLVDLGKKLL	Ac	
+Q1RMI3	369	SLVDLGKKLL	Ac	
+Q06547,A8IE52,Q06545,Q12940,Q12941,Q12942,Q8IYD0	69	SLVDLGKKLL	Ac	
+Q06547,A8IE52,Q06545,Q12940,Q12941,Q12942,Q8IYD0	352	SLVDLGKKLL	Ac	
+Q06547,A8IE52,Q06545,Q12940,Q12941,Q12942,Q8IYD0	381	SLVDLGKKLL	Ac	
+Q00420,A2AQ68,A2AQ70,Q00421,Q8BS31,Q91YZ0,Q9QVV2	69	SLVDLGKKLL	Ac	
+Q00420,A2AQ68,A2AQ70,Q00421,Q8BS31,Q91YZ0,Q9QVV2	340	SLVDLGKKLL	Ac	
+Q00420,A2AQ68,A2AQ70,Q00421,Q8BS31,Q91YZ0,Q9QVV2	369	SLVDLGKKLL	Ac	
+Q5I0G4,G3V7G8	193	PCLLPTLLRA	unAc	
+Q5I0G4,G3V7G8	490	PCLLPTLLRA	unAc	
+E9Q912,E9Q6Q4,I6L967,Q3TA69,Q3TLU4,Q3TPS9,Q3TU36	230	DNLSDTLKKL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P34896,B4DPM9,D3DXD0,Q96HY0,Q9UMD1,Q9UMD2	271	TMPVNGAHKD	unAc	
+Q9CZN7,Q3TFD0,Q99K87	103	VSFSLLRTTR	unAc	
+Q9CZN7,Q3TFD0,Q99K87	181	VSFSLLRTTR	unAc	
+Q9CZN7,Q3TFD0,Q99K87	196	VSFSLLRTTR	unAc	
+Q9CZN7,Q3TFD0,Q99K87	464	VSFSLLRTTR	unAc	
+Q9CZN7,Q3TFD0,Q99K87	469	VSFSLLRTTR	unAc	
+Q9CZN7,Q3TFD0,Q99K87	474	VSFSLLRTTR	unAc	
+F1S5L4,Q7YS07	778	DESALTLGTI	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+F1S5L4,Q7YS07	782	DESALTLGTI	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q8N954,A0A0A0MSF9,A8K0D9,B7Z2G4,B8ZZ44	149	RSARSTALNR	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q00728	10	SGRAKQGGKA	Ac	
+P02293,D6VSK6	18	SAKAEKKPAS	unAc	
+P02293,D6VSK6	22	SAKAEKKPAS	unAc	
+P02293,D6VSK6	23	SAKAEKKPAS	unAc	
+P02294,D6VQ00	18	SSAAEKKPAS	unAc	
+P02294,D6VQ00	22	SSAAEKKPAS	unAc	
+P02294,D6VQ00	23	SSAAEKKPAS	unAc	
+Q4QRF4,A2VD42	10	ARTKQTARKS	unAc	
+Q4QRF4,A2VD42	57	ARTKQTARKS	unAc	
+Q4QRF4,A2VD42	80	ARTKQTARKS	unAc	
+Q28D37	10	ARTKQTARKS	unAc	
+Q28D37	57	ARTKQTARKS	unAc	
+Q28D37	80	ARTKQTARKS	unAc	
+Q5TEC6	5	ARTKQTARKS	unAc	
+Q5TEC6	10	ARTKQTARKS	unAc	
+Q5TEC6	15	ARTKQTARKS	unAc	
+Q5TEC6	19	ARTKQTARKS	unAc	
+Q5TEC6	24	ARTKQTARKS	unAc	
+Q5TEC6	28	ARTKQTARKS	unAc	
+Q5TEC6	37	ARTKQTARKS	unAc	
+Q5TEC6	57	ARTKQTARKS	unAc	
+Q5TEC6	80	ARTKQTARKS	unAc	
+Q5TEC6	116	ARTKQTARKS	unAc	
+Q5TEC6	123	ARTKQTARKS	unAc	
+P0DPK2	5	ARTKQTARKA	unAc	
+P0DPK2	10	ARTKQTARKA	unAc	
+P0DPK2	19	ARTKQTARKA	unAc	
+P0DPK2	24	ARTKQTARKA	unAc	
+P0DPK2	28	ARTKQTARKA	unAc	
+P0DPK2	37	ARTKQTARKA	unAc	
+P0DPK2	57	ARTKQTARKA	unAc	
+P0DPK5	5	ARTKQTARKA	unAc	
+P0DPK5	10	ARTKQTARKA	unAc	
+P0DPK5	19	ARTKQTARKA	unAc	
+P0DPK5	24	ARTKQTARKA	unAc	
+P0DPK5	28	ARTKQTARKA	unAc	
+P0DPK5	37	ARTKQTARKA	unAc	
+P0DPK5	57	ARTKQTARKA	unAc	
+P80553,A0A2H5AIY7	10	ARTKQTARKS	unAc	
+P80553,A0A2H5AIY7	15	ARTKQTARKS	unAc	
+P80553,A0A2H5AIY7	19	ARTKQTARKS	unAc	
+P80553,A0A2H5AIY7	24	ARTKQTARKS	unAc	
+P61830,D6VQ11,E9PAG1,P02303,P13996,Q6B1U3,Q6Q7G9	38	ARTKQTARKS	unAc	
+Q76FE7	6	TGRGKGGKGL	unAc	
+Q76FE7	13	TGRGKGGKGL	unAc	
+Q76FF1	6	TGRGKGGKGL	unAc	
+Q76FF1	13	TGRGKGGKGL	unAc	
+Q76FD9,B4HEK9	6	TGRGKGGKGL	unAc	
+Q76FD9,B4HEK9	13	TGRGKGGKGL	unAc	
+Q76FF5	6	TGRGKGGKGL	unAc	
+Q76FF5	13	TGRGKGGKGL	unAc	
+P02309,D6VQ10	9	SGRGKGGKGL	Ac	
+Q28221	60	SNFTAEDKAA	Ac	
+Q28221	83	SNFTAEDKAA	Ac	
+P62741,P06641	60	GHFTEEDKAT	unAc	
+P62741,P06641	83	GHFTEEDKAT	unAc	
+P69891,P02096,P62027,Q549G1,Q8TDA1,Q96FH7	60	GHFTEEDKAT	unAc	
+P69891,P02096,P62027,Q549G1,Q8TDA1,Q96FH7	83	GHFTEEDKAT	unAc	
+P61947,P16175	60	GHFTEEDKAT	unAc	
+P61947,P16175	83	GHFTEEDKAT	unAc	
+Q28779	60	GHFTEEDKAT	unAc	
+Q28779	83	GHFTEEDKAT	unAc	
+P61920,P02096	60	GHFTEEDKAT	unAc	
+P61920,P02096	83	GHFTEEDKAT	unAc	
+Q9GLX4	60	SNFTAEDKAA	Ac	
+Q9GLX4	83	SNFTAEDKAA	Ac	
+P18995	60	GHFTEEDKAT	unAc	
+P18995	83	GHFTEEDKAT	unAc	
+P68256,Q28225,Q29434	60	SNFTAEDKAA	Ac	
+P68256,Q28225,Q29434	83	SNFTAEDKAA	Ac	
+P68258,Q28225,Q29434	60	SNFTAEDKAA	Ac	
+P68258,Q28225,Q29434	83	SNFTAEDKAA	Ac	
+P62742,P06641	60	GHFTEEDKAT	unAc	
+P62742,P06641	83	GHFTEEDKAT	unAc	
+P69892,A8MZE0,P02096,P62027,Q14491,Q68NH9,Q96FH6,Q96FH7	60	GHFTEEDKAT	unAc	
+P69892,A8MZE0,P02096,P62027,Q14491,Q68NH9,Q96FH6,Q96FH7	83	GHFTEEDKAT	unAc	
+P61948,P16175	60	GHFTEEDKAT	unAc	
+P61948,P16175	83	GHFTEEDKAT	unAc	
+P61921,P02096	60	GHFTEEDKAT	unAc	
+P61921,P02096	83	GHFTEEDKAT	unAc	
+P18996	60	GHFTEEDKAT	unAc	
+P18996	83	GHFTEEDKAT	unAc	
+P68257,Q28225,Q29434	60	SNFTAEDKAA	Ac	
+P68257,Q28225,Q29434	83	SNFTAEDKAA	Ac	
+Q92769,B3KRS5,B4DL58,E1P561,Q5SRI8,Q5SZ86,Q8NEH4	75	AYSQGGGKKK	Ac	
+Q92769,B3KRS5,B4DL58,E1P561,Q5SRI8,Q5SZ86,Q8NEH4	221	AYSQGGGKKK	Ac	
+P70288,B2RRP3	75	AYSQGGGKKK	Ac	
+P70288,B2RRP3	221	AYSQGGGKKK	Ac	
+B2RPK0	3	GKGDPKKPRG	unAc	
+B2RPK0	7	GKGDPKKPRG	unAc	
+B2RPK0	8	GKGDPKKPRG	unAc	
+B2RPK0	12	GKGDPKKPRG	unAc	
+B2RPK0	28	GKGDPKKPRG	unAc	
+B2RPK0	29	GKGDPKKPRG	unAc	
+B2RPK0	127	GKGDPKKPRG	unAc	
+B2RPK0	128	GKGDPKKPRG	unAc	
+B2RPK0	172	GKGDPKKPRG	unAc	
+B2RPK0	173	GKGDPKKPRG	unAc	
+B2RPK0	177	GKGDPKKPRG	unAc	
+B2RPK0	180	GKGDPKKPRG	unAc	
+B2RPK0	182	GKGDPKKPRG	unAc	
+B2RPK0	183	GKGDPKKPRG	unAc	
+B2RPK0	184	GKGDPKKPRG	unAc	
+B2RPK0	185	GKGDPKKPRG	unAc	
+P10103,A5D9G8,Q3ZC39	3	GKGDPKKPRG	unAc	
+P10103,A5D9G8,Q3ZC39	7	GKGDPKKPRG	unAc	
+P10103,A5D9G8,Q3ZC39	8	GKGDPKKPRG	unAc	
+P10103,A5D9G8,Q3ZC39	12	GKGDPKKPRG	unAc	
+P10103,A5D9G8,Q3ZC39	28	GKGDPKKPRG	unAc	
+P10103,A5D9G8,Q3ZC39	29	GKGDPKKPRG	unAc	
+P10103,A5D9G8,Q3ZC39	127	GKGDPKKPRG	unAc	
+P10103,A5D9G8,Q3ZC39	128	GKGDPKKPRG	unAc	
+P10103,A5D9G8,Q3ZC39	172	GKGDPKKPRG	unAc	
+P10103,A5D9G8,Q3ZC39	173	GKGDPKKPRG	unAc	
+P10103,A5D9G8,Q3ZC39	177	GKGDPKKPRG	unAc	
+P10103,A5D9G8,Q3ZC39	180	GKGDPKKPRG	unAc	
+P10103,A5D9G8,Q3ZC39	182	GKGDPKKPRG	unAc	
+P10103,A5D9G8,Q3ZC39	183	GKGDPKKPRG	unAc	
+P10103,A5D9G8,Q3ZC39	184	GKGDPKKPRG	unAc	
+P10103,A5D9G8,Q3ZC39	185	GKGDPKKPRG	unAc	
+B0CM99	3	GKGDPKKPRG	unAc	
+B0CM99	7	GKGDPKKPRG	unAc	
+B0CM99	8	GKGDPKKPRG	unAc	
+B0CM99	12	GKGDPKKPRG	unAc	
+B0CM99	28	GKGDPKKPRG	unAc	
+B0CM99	29	GKGDPKKPRG	unAc	
+B0CM99	127	GKGDPKKPRG	unAc	
+B0CM99	128	GKGDPKKPRG	unAc	
+B0CM99	172	GKGDPKKPRG	unAc	
+B0CM99	173	GKGDPKKPRG	unAc	
+B0CM99	177	GKGDPKKPRG	unAc	
+B0CM99	180	GKGDPKKPRG	unAc	
+B0CM99	182	GKGDPKKPRG	unAc	
+B0CM99	183	GKGDPKKPRG	unAc	
+B0CM99	184	GKGDPKKPRG	unAc	
+B0CM99	185	GKGDPKKPRG	unAc	
+Q6YKA4	3	GKGDPKKPRG	unAc	
+Q6YKA4	7	GKGDPKKPRG	unAc	
+Q6YKA4	8	GKGDPKKPRG	unAc	
+Q6YKA4	12	GKGDPKKPRG	unAc	
+Q6YKA4	28	GKGDPKKPRG	unAc	
+Q6YKA4	29	GKGDPKKPRG	unAc	
+Q6YKA4	127	GKGDPKKPRG	unAc	
+Q6YKA4	128	GKGDPKKPRG	unAc	
+Q6YKA4	172	GKGDPKKPRG	unAc	
+Q6YKA4	173	GKGDPKKPRG	unAc	
+Q6YKA4	177	GKGDPKKPRG	unAc	
+Q6YKA4	180	GKGDPKKPRG	unAc	
+Q6YKA4	182	GKGDPKKPRG	unAc	
+Q6YKA4	183	GKGDPKKPRG	unAc	
+Q6YKA4	184	GKGDPKKPRG	unAc	
+Q6YKA4	185	GKGDPKKPRG	unAc	
+P07156	92	NFSEFSKKCS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P07156	93	NFSEFSKKCS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P07156	137	NFSEFSKKCS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P07156	138	NFSEFSKKCS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P07156	142	NFSEFSKKCS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P07156	145	NFSEFSKKCS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P07156	147	NFSEFSKKCS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P07156	148	NFSEFSKKCS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P07156	149	NFSEFSKKCS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P07156	150	NFSEFSKKCS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q08IE6	3	GKGDPKKPRG	unAc	
+Q08IE6	7	GKGDPKKPRG	unAc	
+Q08IE6	8	GKGDPKKPRG	unAc	
+Q08IE6	12	GKGDPKKPRG	unAc	
+Q08IE6	28	GKGDPKKPRG	unAc	
+Q08IE6	29	GKGDPKKPRG	unAc	
+Q08IE6	127	GKGDPKKPRG	unAc	
+Q08IE6	128	GKGDPKKPRG	unAc	
+Q08IE6	172	GKGDPKKPRG	unAc	
+Q08IE6	173	GKGDPKKPRG	unAc	
+Q08IE6	177	GKGDPKKPRG	unAc	
+Q08IE6	180	GKGDPKKPRG	unAc	
+Q08IE6	182	GKGDPKKPRG	unAc	
+Q08IE6	183	GKGDPKKPRG	unAc	
+Q08IE6	184	GKGDPKKPRG	unAc	
+Q08IE6	185	GKGDPKKPRG	unAc	
+P09429,A5D8W9,Q14321,Q5T7C3,Q6IBE1	3	GKGDPKKPRG	unAc	
+P09429,A5D8W9,Q14321,Q5T7C3,Q6IBE1	7	GKGDPKKPRG	unAc	
+P09429,A5D8W9,Q14321,Q5T7C3,Q6IBE1	8	GKGDPKKPRG	unAc	
+P09429,A5D8W9,Q14321,Q5T7C3,Q6IBE1	12	GKGDPKKPRG	unAc	
+P09429,A5D8W9,Q14321,Q5T7C3,Q6IBE1	28	GKGDPKKPRG	unAc	
+P09429,A5D8W9,Q14321,Q5T7C3,Q6IBE1	29	GKGDPKKPRG	unAc	
+P09429,A5D8W9,Q14321,Q5T7C3,Q6IBE1	127	GKGDPKKPRG	unAc	
+P09429,A5D8W9,Q14321,Q5T7C3,Q6IBE1	128	GKGDPKKPRG	unAc	
+P09429,A5D8W9,Q14321,Q5T7C3,Q6IBE1	172	GKGDPKKPRG	unAc	
+P09429,A5D8W9,Q14321,Q5T7C3,Q6IBE1	173	GKGDPKKPRG	unAc	
+P09429,A5D8W9,Q14321,Q5T7C3,Q6IBE1	177	GKGDPKKPRG	unAc	
+P09429,A5D8W9,Q14321,Q5T7C3,Q6IBE1	180	GKGDPKKPRG	unAc	
+P09429,A5D8W9,Q14321,Q5T7C3,Q6IBE1	182	GKGDPKKPRG	unAc	
+P09429,A5D8W9,Q14321,Q5T7C3,Q6IBE1	183	GKGDPKKPRG	unAc	
+P09429,A5D8W9,Q14321,Q5T7C3,Q6IBE1	184	GKGDPKKPRG	unAc	
+P09429,A5D8W9,Q14321,Q5T7C3,Q6IBE1	185	GKGDPKKPRG	unAc	
+Q4R844	3	GKGDPKKPRG	unAc	
+Q4R844	7	GKGDPKKPRG	unAc	
+Q4R844	8	GKGDPKKPRG	unAc	
+Q4R844	12	GKGDPKKPRG	unAc	
+Q4R844	28	GKGDPKKPRG	unAc	
+Q4R844	29	GKGDPKKPRG	unAc	
+Q4R844	127	GKGDPKKPRG	unAc	
+Q4R844	128	GKGDPKKPRG	unAc	
+Q4R844	172	GKGDPKKPRG	unAc	
+Q4R844	173	GKGDPKKPRG	unAc	
+Q4R844	177	GKGDPKKPRG	unAc	
+Q4R844	180	GKGDPKKPRG	unAc	
+Q4R844	182	GKGDPKKPRG	unAc	
+Q4R844	183	GKGDPKKPRG	unAc	
+Q4R844	184	GKGDPKKPRG	unAc	
+Q4R844	185	GKGDPKKPRG	unAc	
+P63158,P07155,P27109,P27428	3	GKGDPKKPRG	unAc	
+P63158,P07155,P27109,P27428	7	GKGDPKKPRG	unAc	
+P63158,P07155,P27109,P27428	8	GKGDPKKPRG	unAc	
+P63158,P07155,P27109,P27428	12	GKGDPKKPRG	unAc	
+P63158,P07155,P27109,P27428	28	GKGDPKKPRG	unAc	
+P63158,P07155,P27109,P27428	29	GKGDPKKPRG	unAc	
+P63158,P07155,P27109,P27428	127	GKGDPKKPRG	unAc	
+P63158,P07155,P27109,P27428	128	GKGDPKKPRG	unAc	
+P63158,P07155,P27109,P27428	172	GKGDPKKPRG	unAc	
+P63158,P07155,P27109,P27428	173	GKGDPKKPRG	unAc	
+P63158,P07155,P27109,P27428	177	GKGDPKKPRG	unAc	
+P63158,P07155,P27109,P27428	180	GKGDPKKPRG	unAc	
+P63158,P07155,P27109,P27428	182	GKGDPKKPRG	unAc	
+P63158,P07155,P27109,P27428	183	GKGDPKKPRG	unAc	
+P63158,P07155,P27109,P27428	184	GKGDPKKPRG	unAc	
+P63158,P07155,P27109,P27428	185	GKGDPKKPRG	unAc	
+A9RA84	3	GKGDPKKPRG	unAc	
+A9RA84	7	GKGDPKKPRG	unAc	
+A9RA84	8	GKGDPKKPRG	unAc	
+A9RA84	12	GKGDPKKPRG	unAc	
+A9RA84	28	GKGDPKKPRG	unAc	
+A9RA84	29	GKGDPKKPRG	unAc	
+A9RA84	127	GKGDPKKPRG	unAc	
+A9RA84	128	GKGDPKKPRG	unAc	
+A9RA84	172	GKGDPKKPRG	unAc	
+A9RA84	173	GKGDPKKPRG	unAc	
+A9RA84	177	GKGDPKKPRG	unAc	
+A9RA84	180	GKGDPKKPRG	unAc	
+A9RA84	182	GKGDPKKPRG	unAc	
+A9RA84	183	GKGDPKKPRG	unAc	
+A9RA84	184	GKGDPKKPRG	unAc	
+A9RA84	185	GKGDPKKPRG	unAc	
+P12682	3	GKGDPKKPRG	unAc	
+P12682	7	GKGDPKKPRG	unAc	
+P12682	8	GKGDPKKPRG	unAc	
+P12682	12	GKGDPKKPRG	unAc	
+P12682	28	GKGDPKKPRG	unAc	
+P12682	29	GKGDPKKPRG	unAc	
+P12682	127	GKGDPKKPRG	unAc	
+P12682	128	GKGDPKKPRG	unAc	
+P12682	172	GKGDPKKPRG	unAc	
+P12682	173	GKGDPKKPRG	unAc	
+P12682	177	GKGDPKKPRG	unAc	
+P12682	180	GKGDPKKPRG	unAc	
+P12682	182	GKGDPKKPRG	unAc	
+P12682	183	GKGDPKKPRG	unAc	
+P12682	184	GKGDPKKPRG	unAc	
+P12682	185	GKGDPKKPRG	unAc	
+B1MTB0	3	GKGDPKKPRG	unAc	
+B1MTB0	7	GKGDPKKPRG	unAc	
+B1MTB0	8	GKGDPKKPRG	unAc	
+B1MTB0	12	GKGDPKKPRG	unAc	
+B1MTB0	28	GKGDPKKPRG	unAc	
+B1MTB0	29	GKGDPKKPRG	unAc	
+B1MTB0	127	GKGDPKKPRG	unAc	
+B1MTB0	128	GKGDPKKPRG	unAc	
+B1MTB0	172	GKGDPKKPRG	unAc	
+B1MTB0	173	GKGDPKKPRG	unAc	
+B1MTB0	177	GKGDPKKPRG	unAc	
+B1MTB0	180	GKGDPKKPRG	unAc	
+B1MTB0	182	GKGDPKKPRG	unAc	
+B1MTB0	183	GKGDPKKPRG	unAc	
+B1MTB0	184	GKGDPKKPRG	unAc	
+B1MTB0	185	GKGDPKKPRG	unAc	
+P63159,P07155,P27109,P27428,Q548R9	3	GKGDPKKPRG	unAc	
+P63159,P07155,P27109,P27428,Q548R9	7	GKGDPKKPRG	unAc	
+P63159,P07155,P27109,P27428,Q548R9	8	GKGDPKKPRG	unAc	
+P63159,P07155,P27109,P27428,Q548R9	12	GKGDPKKPRG	unAc	
+P63159,P07155,P27109,P27428,Q548R9	28	GKGDPKKPRG	unAc	
+P63159,P07155,P27109,P27428,Q548R9	29	GKGDPKKPRG	unAc	
+P63159,P07155,P27109,P27428,Q548R9	127	GKGDPKKPRG	unAc	
+P63159,P07155,P27109,P27428,Q548R9	128	GKGDPKKPRG	unAc	
+P63159,P07155,P27109,P27428,Q548R9	172	GKGDPKKPRG	unAc	
+P63159,P07155,P27109,P27428,Q548R9	173	GKGDPKKPRG	unAc	
+P63159,P07155,P27109,P27428,Q548R9	177	GKGDPKKPRG	unAc	
+P63159,P07155,P27109,P27428,Q548R9	180	GKGDPKKPRG	unAc	
+P63159,P07155,P27109,P27428,Q548R9	182	GKGDPKKPRG	unAc	
+P63159,P07155,P27109,P27428,Q548R9	183	GKGDPKKPRG	unAc	
+P63159,P07155,P27109,P27428,Q548R9	184	GKGDPKKPRG	unAc	
+P63159,P07155,P27109,P27428,Q548R9	185	GKGDPKKPRG	unAc	
+P40673,Q32L56	3	GKGDPNKPRG	unAc	
+P40673,Q32L56	43	GKGDPNKPRG	unAc	
+P40673,Q32L56	90	GKGDPNKPRG	unAc	
+P40673,Q32L56	141	GKGDPNKPRG	unAc	
+P26583,B2R4K8,D3DP37,Q5U072	3	GKGDPNKPRG	unAc	
+P26583,B2R4K8,D3DP37,Q5U072	43	GKGDPNKPRG	unAc	
+P26583,B2R4K8,D3DP37,Q5U072	90	GKGDPNKPRG	unAc	
+P26583,B2R4K8,D3DP37,Q5U072	141	GKGDPNKPRG	unAc	
+P30681,Q3UXT1,Q9EQD5	3	GKGDPNKPRG	unAc	
+P30681,Q3UXT1,Q9EQD5	43	GKGDPNKPRG	unAc	
+P30681,Q3UXT1,Q9EQD5	90	GKGDPNKPRG	unAc	
+P30681,Q3UXT1,Q9EQD5	141	GKGDPNKPRG	unAc	
+P17741	3	GKGDPNKPRG	unAc	
+P17741	43	GKGDPNKPRG	unAc	
+P17741	90	GKGDPNKPRG	unAc	
+P17741	141	GKGDPNKPRG	unAc	
+P52925,Q5FVP0	3	GKGDPNKPRG	unAc	
+P52925,Q5FVP0	43	GKGDPNKPRG	unAc	
+P52925,Q5FVP0	90	GKGDPNKPRG	unAc	
+P52925,Q5FVP0	141	GKGDPNKPRG	unAc	
+Q32L31	3	AKGDPKKPKG	Ac	
+Q32L31	30	AKGDPKKPKG	Ac	
+Q32L31	43	AKGDPKKPKG	Ac	
+Q32L31	112	AKGDPKKPKG	Ac	
+Q32L31	139	AKGDPKKPKG	Ac	
+O15347,O95556,Q6NS40	3	AKGDPKKPKG	Ac	
+O15347,O95556,Q6NS40	30	AKGDPKKPKG	Ac	
+O15347,O95556,Q6NS40	43	AKGDPKKPKG	Ac	
+O15347,O95556,Q6NS40	112	AKGDPKKPKG	Ac	
+O15347,O95556,Q6NS40	139	AKGDPKKPKG	Ac	
+O54879	3	AKGDPKKPKG	Ac	
+O54879	30	AKGDPKKPKG	Ac	
+O54879	43	AKGDPKKPKG	Ac	
+O54879	112	AKGDPKKPKG	Ac	
+O54879	139	AKGDPKKPKG	Ac	
+Q14103,A8K9J2,P07029,Q01858,Q14100,Q14101,Q14102,Q4W5A1,Q9UCE8,Q9UCE9	292	SEEQFGGDGA	Ac	
+Q14103,A8K9J2,P07029,Q01858,Q14100,Q14101,Q14102,Q4W5A1,Q9UCE8,Q9UCE9	273	SEEQFGGDGA	Ac	
+Q3T0D0	34	ETEQPEETFP	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q3T0D0	405	ETEQPEETFP	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P61978,Q07244,Q15671,Q59F98,Q5T6W4,Q60577,Q6IBN1,Q922Y7,Q96J62	34	ETEQPEETFP	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P61978,Q07244,Q15671,Q59F98,Q5T6W4,Q60577,Q6IBN1,Q922Y7,Q96J62	405	ETEQPEETFP	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q4R4M6	34	ETEQPEETFP	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q4R4M6	405	ETEQPEETFP	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P61979,Q07244,Q15671,Q60577,Q8BGQ8,Q922Y7,Q96J62	34	ETEQPEETFP	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P61979,Q07244,Q15671,Q60577,Q8BGQ8,Q922Y7,Q96J62	405	ETEQPEETFP	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q5R5H8	34	ETEQPEETFP	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q5R5H8	405	ETEQPEETFP	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+O19049	34	ETEQPEETFP	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+O19049	405	ETEQPEETFP	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P61980,Q07244,Q15671,Q60577,Q922Y7,Q96J62	34	ETEQPEETFP	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P61980,Q07244,Q15671,Q60577,Q922Y7,Q96J62	405	ETEQPEETFP	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+F1LQ48,F1LPP9,Q5U1Y5	266	SRRLLPRAEK	Ac	
+Q00839,O75507,Q8N174,Q96HY9,Q9BQ09	215	SSSPVNVKKL	Ac	
+Q8VEK3,G3XA10,Q9R205	17	SSSPVNVKKL	Ac	
+Q8VEK3,G3XA10,Q9R205	21	SSSPVNVKKL	Ac	
+Q8VEK3,G3XA10,Q9R205	181	SSSPVNVKKL	Ac	
+Q6IMY8	17	SSSPVNVKKL	Ac	
+Q6IMY8	21	SSSPVNVKKL	Ac	
+Q6IMY8	179	SSSPVNVKKL	Ac	
+Q6IMY8	239	SSSPVNVKKL	Ac	
+Q6IMY8	326	SSSPVNVKKL	Ac	
+Q6IMY8	490	SSSPVNVKKL	Ac	
+Q6IMY8	498	SSSPVNVKKL	Ac	
+Q6IMY8	525	SSSPVNVKKL	Ac	
+Q6IMY8	539	SSSPVNVKKL	Ac	
+Q6IMY8	609	SSSPVNVKKL	Ac	
+Q6IMY8	787	SSSPVNVKKL	Ac	
+Q6VE93	289	GNVCVGGSRM	unAc	
+Q27975,Q27964,Q6DLW1,Q7YQF7	77	AKNMAIGIDL	Ac	
+P0DMV8,B4E3B6,P08107,P19790,Q5JQI4,Q5SP17,Q9UQL9,Q9UQM0	77	AKAAAIGIDL	Ac	
+Q61696,Q61697,Q7TQD8,Q9QWJ5	77	AKNTAIGIDL	Ac	
+P34930	77	AKSVAIGIDL	Ac	
+P0DMW0,P42853,Q07439,Q63256	77	AKKTAIGIDL	Ac	
+Q4U0F3	77	AKNTAIGIDL	Ac	
+Q27965,Q28122,Q3ZBV7	77	AKNTAIGIDL	Ac	
+P0DMV9,B4E3B6,P08107,P19790,Q5JQI4,Q5SP17,Q9UQL9,Q9UQM0	77	AKAAAIGIDL	Ac	
+P17879,Q61689,Q925V6	77	AKNTAIGIDL	Ac	
+Q6S4N2	77	AKSVAIGIDL	Ac	
+P0DMW1,P42853,Q07439,Q63256	77	AKKTAIGIDL	Ac	
+P30947,G1T8Q6	437	PEEVHHGEEE	unAc	
+P30947,G1T8Q6	483	PEEVHHGEEE	unAc	
+P30947,G1T8Q6	626	PEEVHHGEEE	unAc	
+Q08DJ8	80	DLPVGPGAAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q08DJ8	91	DLPVGPGAAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q08DJ8	118	DLPVGPGAAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q08DJ8	150	DLPVGPGAAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q08DJ8	188	DLPVGPGAAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q08DJ8	208	DLPVGPGAAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q08DJ8	298	DLPVGPGAAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q08DJ8	520	DLPVGPGAAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q00613,A8K4L0,A8MW26,Q53XT4	80	DLPVGPGAAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q00613,A8K4L0,A8MW26,Q53XT4	91	DLPVGPGAAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q00613,A8K4L0,A8MW26,Q53XT4	118	DLPVGPGAAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q00613,A8K4L0,A8MW26,Q53XT4	150	DLPVGPGAAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q00613,A8K4L0,A8MW26,Q53XT4	188	DLPVGPGAAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q00613,A8K4L0,A8MW26,Q53XT4	208	DLPVGPGAAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q00613,A8K4L0,A8MW26,Q53XT4	298	DLPVGPGAAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q00613,A8K4L0,A8MW26,Q53XT4	524	DLPVGPGAAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P38532,O70462	80	DLAVGPGAAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P38532,O70462	91	DLAVGPGAAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P38532,O70462	118	DLAVGPGAAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P38532,O70462	150	DLAVGPGAAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P38532,O70462	188	DLAVGPGAAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P38532,O70462	208	DLAVGPGAAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P38532,O70462	298	DLAVGPGAAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P38532,O70462	520	DLAVGPGAAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q7YQC6,Q8WNS9	77	AKSAAIGIDL	Ac	
+Q28222	77	AKAAAIGIDL	Ac	
+Q5R7D3,Q5R9P1	77	AKAAAIGIDL	Ac	
+Q9UNL4,A4KYM4,A4KYM6,D3DUR8,Q0EF62,Q0EF63,Q4VBQ6,Q96E15,Q9H3J0	114	AAGMYLEHYL	Ac	
+P26440,B2RCV5,B3KVI7,J3KR54,Q53XZ9,Q96AF6	58	AEMATATRLL	Ac	
+P26440,B2RCV5,B3KVI7,J3KR54,Q53XZ9,Q96AF6	67	AEMATATRLL	Ac	
+P26440,B2RCV5,B3KVI7,J3KR54,Q53XZ9,Q96AF6	78	AEMATATRLL	Ac	
+P26440,B2RCV5,B3KVI7,J3KR54,Q53XZ9,Q96AF6	241	AEMATATRLL	Ac	
+P26440,B2RCV5,B3KVI7,J3KR54,Q53XZ9,Q96AF6	262	AEMATATRLL	Ac	
+P46013,Q5VWH2	2986	WPTRRLVTIK	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+E9PVX6,Q61769,Q7TSF6	1609	ASSAHLVTIK	Ac	
+E9PVX6,Q61769,Q7TSF6	1966	ASSAHLVTIK	Ac	
+E9PVX6,Q61769,Q7TSF6	2928	ASSAHLVTIK	Ac	
+P52480,Q3TBV8,Q3TBW5,Q3TC59,Q3U1X3,Q3U5P6,Q4VC20,Q64484,Q91YI8,Q9CWB1	433	PKPHSEAGTA	unAc	
+Q8IV20,A2A3Z6,Q8N8X5	247	AEAVLIDLFG	Ac	
+Q8BZT9,Q14AQ3,Q3U600	247	AEAVLIDLSG	Ac	
+F1MVX2,Q1LZH8	142	AQRAFPNPYA	Ac	
+Q61033,B2RUB9,Q61028	206	PEFLEDPSVL	unAc	
+Q6ZMR3,D3DQY5	5	ATIKSELIKN	Ac	
+Q6ZMR3,D3DQY5	57	ATIKSELIKN	Ac	
+Q6ZMR3,D3DQY5	81	ATIKSELIKN	Ac	
+Q6ZMR3,D3DQY5	118	ATIKSELIKN	Ac	
+Q6ZMR3,D3DQY5	232	ATIKSELIKN	Ac	
+Q6ZMR3,D3DQY5	243	ATIKSELIKN	Ac	
+Q6ZMR3,D3DQY5	318	ATIKSELIKN	Ac	
+C0HJR3	13	ACGLVASNLN	Ac	
+C0HJR3	29	ACGLVASNLN	Ac	
+C0HJR3	108	ACGLVASNLN	Ac	
+C0HJR3	128	ACGLVASNLN	Ac	
+P30349,Q499P2	337	PEVADTCSLA	unAc	
+P30349,Q499P2	414	PEVADTCSLA	unAc	
+P30349,Q499P2	573	PEVADTCSLA	unAc	
+Q03252,O75292,Q14734,Q96DF6	81	SPPSPGRRRE	unAc	
+G3V928,Q5I0H1	2010	LTPPLLLLLP	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P28574,B2RS19,Q8C4Y1	66	SDNDDIEVES	Ac	
+P52164	66	SDNDDIEVES	Ac	
+A0QUA1,I7FIE2	260	NVLSAALTEA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+A0QUA1,I7FIE2	511	NVLSAALTEA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P49718,Q52KC3	392	SGFDDPGIFY	Ac	
+P49718,Q52KC3	396	SGFDDPGIFY	Ac	
+K0J107,Q0QF33	78	LSALARPAGA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+K0J107,Q0QF33	91	LSALARPAGA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+K0J107,Q0QF33	165	LSALARPAGA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+K0J107,Q0QF33	185	LSALARPAGA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+K0J107,Q0QF33	215	LSALARPAGA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+K0J107,Q0QF33	239	LSALARPAGA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+K0J107,Q0QF33	296	LSALARPAGA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+K0J107,Q0QF33	301	LSALARPAGA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+K0J107,Q0QF33	307	LSALARPAGA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+K0J107,Q0QF33	314	LSALARPAGA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+K0J107,Q0QF33	324	LSALARPAGA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+K0J107,Q0QF33	328	LSALARPAGA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+K0J107,Q0QF33	329	LSALARPAGA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+K0J107,Q0QF33	335	LSALARPAGA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+A0A096MJY4	4	GRKKIQITRI	unAc	
+A0A096MJY4	116	GRKKIQITRI	unAc	
+A0A096MJY4	119	GRKKIQITRI	unAc	
+A0A096MJY4	234	GRKKIQITRI	unAc	
+A0A096MJY4	239	GRKKIQITRI	unAc	
+A0A096MJY4	252	GRKKIQITRI	unAc	
+A0A096MJY4	264	GRKKIQITRI	unAc	
+Q258K2	435	AQQAADKYLY	Ac	
+Q258K2	1234	AQQAADKYLY	Ac	
+P35579,A8K6E4,O60805,Q60FE2,Q86T83	435	AQQAADKYLY	Ac	
+P35579,A8K6E4,O60805,Q60FE2,Q86T83	1234	AQQAADKYLY	Ac	
+Q8VDD5,Q3UHT9,Q3UHU4,Q6KAN6,Q811I2	435	AQQAADKYLY	Ac	
+Q8VDD5,Q3UHT9,Q3UHU4,Q6KAN6,Q811I2	1234	AQQAADKYLY	Ac	
+Q62812	435	AQQAADKYLY	Ac	
+Q62812	1234	AQQAADKYLY	Ac	
+Q2KI14	136	NIRNARPEDL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P41227,A6NM98	136	NIRNARPEDL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q9QY36	136	NIRNARPEDL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q0IIJ0	140	KGSRIELGDV	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q9GZZ1,D3DN74,Q68DQ1	140	KGSRIELGDV	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q6PGB6,Q3TH79,Q3TK59,Q7TML2,Q80VE3,Q9D0Q8	140	KGSRIELGDV	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q5RF28	140	KGSRIELGDV	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q9H009,Q2VIR9	142	PGEATETVPA	unAc	
+Q6BCY4,Q9BVA3,Q9UF68,Q9UHJ0	17	NSRRREPITL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q3KNK3,Q3UGG1,Q8BUG7	17	SVKKKDLITL	Ac	
+Q6AY12	17	SVKKKDLITL	Ac	
+Q9Y618,O00613,O15416,O15421,Q13354,Q56D06,Q59GM0,Q9Y5U0	1210	SGSTQPVAQT	Ac	
+Q9Y618,O00613,O15416,O15421,Q13354,Q56D06,Q59GM0,Q9Y5U0	1240	SGSTQPVAQT	Ac	
+Q9Y618,O00613,O15416,O15421,Q13354,Q56D06,Q59GM0,Q9Y5U0	1959	SGSTQPVAQT	Ac	
+Q9Y618,O00613,O15416,O15421,Q13354,Q56D06,Q59GM0,Q9Y5U0	2026	SGSTQPVAQT	Ac	
+P77567	214	TPILNHYFAR	unAc	
+P77567	281	TPILNHYFAR	unAc	
+W5PFI3	70	ANLLKTVVTG	Ac	
+W5PFI3	397	ANLLKTVVTG	Ac	
+E9Q5C9,Q3TKZ9,Q3U6W2,Q3UBB6,Q3UI16,Q6ZQK6,Q8CE21	33	ADTGLRRVVP	Ac	
+E9Q5C9,Q3TKZ9,Q3U6W2,Q3UBB6,Q3UI16,Q6ZQK6,Q8CE21	421	ADTGLRRVVP	Ac	
+E9Q5C9,Q3TKZ9,Q3U6W2,Q3UBB6,Q3UI16,Q6ZQK6,Q8CE21	666	ADTGLRRVVP	Ac	
+P68950,P03266,P12542	27	SILISPSNNT	Ac	
+P68950,P03266,P12542	48	SILISPSNNT	Ac	
+Q96831	48	SIFISPSNNT	Ac	
+P68951,P03266,P12542	27	SILISPSNNT	Ac	
+P68951,P03266,P12542	48	SILISPSNNT	Ac	
+O10440	26	SILISPSDNT	Ac	
+Q08E02	590	TTLDSNNNTG	unAc	
+P20393,Q0P5Z4,Q15304	400	TTLDSNNNTG	unAc	
+P20393,Q0P5Z4,Q15304	591	TTLDSNNNTG	unAc	
+Q3UV55,Q3UJJ1,Q62171,Q6EEZ6,Q922A5,Q9ESY4	592	TTLDSNNNTG	unAc	
+Q63503,Q6P6S7	401	TTLDSNNNTG	unAc	
+Q63503,Q6P6S7	592	TTLDSNNNTG	unAc	
+B3SV56	591	TTLDSNNNTG	unAc	
+Q3SZL0	167	VMQFQELENP	unAc	
+Q3SZL0	223	VMQFQELENP	unAc	
+Q96RI1,A1L4K5,B7Z412,B7ZM06,F8VYG8,Q8NFP5,Q8NFP6,Q92943	167	VMQFQGLENP	unAc	
+Q96RI1,A1L4K5,B7Z412,B7ZM06,F8VYG8,Q8NFP5,Q8NFP6,Q92943	227	VMQFQGLENP	unAc	
+Q60641,D3YTT2,E9QJW2,Q60642,Q60643	168	VMQFQGLENP	unAc	
+Q60641,D3YTT2,E9QJW2,Q60642,Q60643	228	VMQFQGLENP	unAc	
+Q62735	154	NLIGPSHLQA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q62735	210	NLIGPSHLQA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+E9Q7G0,Q80Y35	377	TLHATRAATL	unAc	
+E9Q7G0,Q80Y35	443	TLHATRAATL	unAc	
+E9Q7G0,Q80Y35	878	TLHATRAATL	unAc	
+E9Q7G0,Q80Y35	1507	TLHATRAATL	unAc	
+P84010,W5NRA6	71	LFINLRTLLN	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P84010,W5NRA6	89	LFINLRTLLN	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P84010,W5NRA6	145	LFINLRTLLN	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P84010,W5NRA6	222	LFINLRTLLN	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P84010,W5NRA6	232	LFINLRTLLN	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P84010,W5NRA6	239	LFINLRTLLN	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P84010,W5NRA6	244	LFINLRTLLN	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P84010,W5NRA6	293	LFINLRTLLN	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P84010,W5NRA6	308	LFINLRTLLN	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P02340,Q9QUP3	117	TAMEESQSDI	unAc	
+P02340,Q9QUP3	302	TAMEESQSDI	unAc	
+P02340,Q9QUP3	318	TAMEESQSDI	unAc	
+P02340,Q9QUP3	370	TAMEESQSDI	unAc	
+P02340,Q9QUP3	378	TAMEESQSDI	unAc	
+P02340,Q9QUP3	379	TAMEESQSDI	unAc	
+A7E316	484	VSQSSGRQDS	unAc	
+A7E316	534	VSQSSGRQDS	unAc	
+A7E316	574	VSQSSGRQDS	unAc	
+A7E316	634	VSQSSGRQDS	unAc	
+Q9H714,A8KAG9,A8XR19,B3KS87,Q5W051,Q5W053,Q6PJ74,Q6PK94,Q86XH7,Q8N5J6	483	VSQSTVRQDS	unAc	
+Q9H714,A8KAG9,A8XR19,B3KS87,Q5W051,Q5W053,Q6PJ74,Q6PK94,Q86XH7,Q8N5J6	523	VSQSTVRQDS	unAc	
+Q9H714,A8KAG9,A8XR19,B3KS87,Q5W051,Q5W053,Q6PJ74,Q6PK94,Q86XH7,Q8N5J6	533	VSQSTVRQDS	unAc	
+Q9H714,A8KAG9,A8XR19,B3KS87,Q5W051,Q5W053,Q6PJ74,Q6PK94,Q86XH7,Q8N5J6	573	VSQSTVRQDS	unAc	
+Q9H714,A8KAG9,A8XR19,B3KS87,Q5W051,Q5W053,Q6PJ74,Q6PK94,Q86XH7,Q8N5J6	633	VSQSTVRQDS	unAc	
+Q3TD16	469	VSQSIGWGDS	unAc	
+Q3TD16	509	VSQSIGWGDS	unAc	
+Q3TD16	519	VSQSIGWGDS	unAc	
+Q3TD16	559	VSQSIGWGDS	unAc	
+Q3TD16	619	VSQSIGWGDS	unAc	
+P0DTA4	65	AGLWVGGSVL	Ac	
+P0DTA4	150	AGLWVGGSVL	Ac	
+P0DTA4	154	AGLWVGGSVL	Ac	
+P0DTA4	200	AGLWVGGSVL	Ac	
+Q9Y5E4,Q549F4,Q9UFU9	296	ETALAKTPQK	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q5DRC9	296	ETALAKTPQK	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q8HYZ4	91	PPQLSDGLNY	unAc	
+Q8HYZ4	473	PPQLSDGLNY	unAc	
+Q8HYZ4	521	PPQLSDGLNY	unAc	
+P35558,A8K437,B4DT64,Q8TCA3,Q9UJD2	91	PPQLQNGLNL	unAc	
+P35558,A8K437,B4DT64,Q8TCA3,Q9UJD2	473	PPQLQNGLNL	unAc	
+P35558,A8K437,B4DT64,Q8TCA3,Q9UJD2	521	PPQLQNGLNL	unAc	
+P35558,A8K437,B4DT64,Q8TCA3,Q9UJD2	524	PPQLQNGLNL	unAc	
+Q9Z2V4,Q3UEH3	91	PPQLHNGLDF	unAc	
+Q9Z2V4,Q3UEH3	473	PPQLHNGLDF	unAc	
+Q9Z2V4,Q3UEH3	521	PPQLHNGLDF	unAc	
+Q9Z2V4,Q3UEH3	524	PPQLHNGLDF	unAc	
+A0A4X1UM84,A5GFS4,K7GND0	70	PPQLSNGLNH	unAc	
+A0A4X1UM84,A5GFS4,K7GND0	71	PPQLSNGLNH	unAc	
+A0A4X1UM84,A5GFS4,K7GND0	91	PPQLSNGLNH	unAc	
+A0A4X1UM84,A5GFS4,K7GND0	473	PPQLSNGLNH	unAc	
+A0A4X1UM84,A5GFS4,K7GND0	521	PPQLSNGLNH	unAc	
+A0A4X1UM84,A5GFS4,K7GND0	594	PPQLSNGLNH	unAc	
+Q5R5J1	91	PPQLQNGLNL	unAc	
+Q5R5J1	473	PPQLQNGLNL	unAc	
+Q5R5J1	521	PPQLQNGLNL	unAc	
+Q5R5J1	524	PPQLQNGLNL	unAc	
+P07379	91	PPQLHNGLDF	unAc	
+P07379	473	PPQLHNGLDF	unAc	
+P07379	521	PPQLHNGLDF	unAc	
+P07379	524	PPQLHNGLDF	unAc	
+P78356,Q5U0E8,Q8TBP2	94	SSNCTSTTAV	Ac	
+Q80XI4,Q8VHB2	94	SSNCTSTTAV	Ac	
+O88377	94	SSNCTSTTAV	Ac	
+A2VDZ4	45	ATCIGEKIED	Ac	
+A2VDZ4	46	ATCIGEKIED	Ac	
+O00444,B2RAL0,B7Z837,B7Z8G7,Q8IYF0,Q96Q95,Q9UD84,Q9UDE2	45	ATCIGEKIED	Ac	
+O00444,B2RAL0,B7Z837,B7Z8G7,Q8IYF0,Q96Q95,Q9UD84,Q9UDE2	46	ATCIGEKIED	Ac	
+Q64702,Q3UVA3,Q6PEP6,Q78EG6,Q80UT6,Q8R0I5,Q9CVR6,Q9CVU6	45	AACIGERIED	Ac	
+Q64702,Q3UVA3,Q6PEP6,Q78EG6,Q80UT6,Q8R0I5,Q9CVR6,Q9CVU6	46	AACIGERIED	Ac	
+Q5R9Z7	45	ATCIGEKIED	Ac	
+Q5R9Z7	46	ATCIGEKIED	Ac	
+B2GUY1	45	AACIGERIED	Ac	
+B2GUY1	46	AACIGERIED	Ac	
+Q60953,Q8CEJ1,Q8VCC4	525	ETEPVSVQKV	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q9ULL5,E9PB06,Q8N4J6	1223	DRNYPSAGFG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+E9PYL2,Q69ZN8	1214	DRNYPSAGFG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P31335	200	AARQQLALLS	Ac	
+Q29RK2,Q866R1	35	LKFQTVRGSL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q29RK2,Q866R1	39	LKFQTVRGSL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q29RK2,Q866R1	148	LKFQTVRGSL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q29RK2,Q866R1	152	LKFQTVRGSL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q29RK2,Q866R1	241	LKFQTVRGSL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q29RK2,Q866R1	589	LKFQTVRGSL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q29RK2,Q866R1	717	LKFQTVRGSL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q29RK2,Q866R1	892	LKFQTVRGSL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q29RK2,Q866R1	969	LKFQTVRGSL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P11498,B4DN00,Q16705	35	LKFRTVHGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P11498,B4DN00,Q16705	39	LKFRTVHGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P11498,B4DN00,Q16705	148	LKFRTVHGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P11498,B4DN00,Q16705	152	LKFRTVHGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P11498,B4DN00,Q16705	241	LKFRTVHGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P11498,B4DN00,Q16705	589	LKFRTVHGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P11498,B4DN00,Q16705	717	LKFRTVHGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P11498,B4DN00,Q16705	892	LKFRTVHGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P11498,B4DN00,Q16705	969	LKFRTVHGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q05920	35	LKFQTVRGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q05920	39	LKFQTVRGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q05920	148	LKFQTVRGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q05920	152	LKFQTVRGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q05920	241	LKFQTVRGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q05920	589	LKFQTVRGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q05920	717	LKFQTVRGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q05920	892	LKFQTVRGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q05920	969	LKFQTVRGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P52873,Q5RKM0,Q64555	35	LKFQTVRGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P52873,Q5RKM0,Q64555	39	LKFQTVRGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P52873,Q5RKM0,Q64555	148	LKFQTVRGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P52873,Q5RKM0,Q64555	152	LKFQTVRGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P52873,Q5RKM0,Q64555	241	LKFQTVRGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P52873,Q5RKM0,Q64555	589	LKFQTVRGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P52873,Q5RKM0,Q64555	717	LKFQTVRGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P52873,Q5RKM0,Q64555	892	LKFQTVRGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P52873,Q5RKM0,Q64555	969	LKFQTVRGGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+A0A096LP55	42	GLEDEQKMLT	unAc	
+A0A096LP55	85	GLEDEQKMLT	unAc	
+Q9UJ41,B4DZM7,Q3HKR2,Q3HKR3,Q53FG0	151	SLKSERRGIH	Ac	
+Q9UJ41,B4DZM7,Q3HKR2,Q3HKR3,Q53FG0	170	SLKSERRGIH	Ac	
+O12944	504	AKRKAGGEEE	Ac	
+Q92698,Q5TE31,Q6IUY3	515	RRSLAPSQLA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P70270,Q8BSR5,Q8C2C4,Q8K3D4	515	RRSLAPSQLA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q61820,Q4FZF4,Q6P8M7,Q80YD4,Q9D9Y0	134	AAQGEPQVQF	Ac	
+Q8K586	134	AGQGKPQIQF	Ac	
+Q3T054	37	AAQGEPQVQF	Ac	
+Q3T054	134	AAQGEPQVQF	Ac	
+P62825,P17080,P28746,P28747,Q9CSP3,Q9CWI7,Q9CZA2,Q9UDJ5,Q9UEU9	37	AAQGEPQVQF	Ac	
+P62825,P17080,P28746,P28747,Q9CSP3,Q9CWI7,Q9CZA2,Q9UDJ5,Q9UEU9	134	AAQGEPQVQF	Ac	
+P62826,A8K3Z8,P17080,P28746,P28747,Q6IPB2,Q86V08,Q8NI90,Q9CSP3,Q9CWI7,Q9CZA2,Q9UDJ5,Q9UEU9	37	AAQGEPQVQF	Ac	
+P62826,A8K3Z8,P17080,P28746,P28747,Q6IPB2,Q86V08,Q8NI90,Q9CSP3,Q9CWI7,Q9CZA2,Q9UDJ5,Q9UEU9	134	AAQGEPQVQF	Ac	
+Q4R4M9	37	AAQGEPQVQF	Ac	
+Q4R4M9	134	AAQGEPQVQF	Ac	
+P62827,P17080,P28746,P28747,Q3U954,Q811M2,Q86V08,Q9CSP3,Q9CWI7,Q9CZA2,Q9UDJ5,Q9UEU9	37	AAQGEPQVQF	Ac	
+P62827,P17080,P28746,P28747,Q3U954,Q811M2,Q86V08,Q9CSP3,Q9CWI7,Q9CZA2,Q9UDJ5,Q9UEU9	134	AAQGEPQVQF	Ac	
+Q5R556	37	AAQGEPQVQF	Ac	
+Q5R556	134	AAQGEPQVQF	Ac	
+P62828,P17080,P28746,P28747,Q9CSP3,Q9CWI7,Q9CZA2,Q9UDJ5,Q9UEU9	37	AAQGEPQVQF	Ac	
+P62828,P17080,P28746,P28747,Q9CSP3,Q9CWI7,Q9CZA2,Q9UDJ5,Q9UEU9	134	AAQGEPQVQF	Ac	
+Q0VG62,G3UW58	21	AKNKLKGQKS	Ac	
+Q0VBL3,A0PJG5,Q3THK4,Q3TLX0,Q571M7,Q66JP8,Q6PGG1,Q7TT82	449	RSAGREPLPR	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P47915	145	AKSKNHTTHN	Ac	
+P30850,P78280	501	FQDNPLLAQL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q99729,B3KNN5,D3DWP7,Q04150,Q8N7U3,Q9BQ99	271	SEAGEEQPME	unAc	
+Q99729,B3KNN5,D3DWP7,Q04150,Q8N7U3,Q9BQ99	272	SEAGEEQPME	unAc	
+Q9GZS1,Q5VZT3,Q8NBA9,Q96L20	373	AAEVLPSARW	Ac	
+Q8K202,B1AXQ6,B1AXQ7,Q62034,Q8BQG9	436	ATLESPGMDD	Ac	
+P11414,Q76M93	1866	HGGGPPSGDS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P11414,Q76M93	1887	HGGGPPSGDS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P11414,Q76M93	1922	HGGGPPSGDS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P11414,Q76M93	1936	HGGGPPSGDS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P24928,A6NN93,B9EH88,Q6NX41	1866	HGGGPPSGDS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P24928,A6NN93,B9EH88,Q6NX41	1887	HGGGPPSGDS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P24928,A6NN93,B9EH88,Q6NX41	1922	HGGGPPSGDS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P24928,A6NN93,B9EH88,Q6NX41	1936	HGGGPPSGDS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P08775,Q5F298	1866	HGGGPPSGDS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P08775,Q5F298	1887	HGGGPPSGDS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P08775,Q5F298	1922	HGGGPPSGDS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P08775,Q5F298	1936	HGGGPPSGDS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+E2RQ08	187	EVPTARLLLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+E2RQ08	538	EVPTARLLLL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+A7ZUK2	972	KDLLKFLKAQ	Ac	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P0A8T8,P00577,P00578,P78134	972	KDLLKFLKAQ	Ac	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+B1XBZ0	972	KDLLKFLKAQ	Ac	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+A8A787	972	KDLLKFLKAQ	Ac	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+A1AIG0	972	KDLLKFLKAQ	Ac	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q0TA77	972	KDLLKFLKAQ	Ac	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q8FB83	972	KDLLKFLKAQ	Ac	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+B1IUQ9	972	KDLLKFLKAQ	Ac	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+B1LNU0	972	KDLLKFLKAQ	Ac	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q1R5V4	972	KDLLKFLKAQ	Ac	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+B2TWH4	972	KDLLKFLKAQ	Ac	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q31U09	972	KDLLKFLKAQ	Ac	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q32AG0	972	KDLLKFLKAQ	Ac	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q0SY12	972	KDLLKFLKAQ	Ac	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P0A8T9,P00577,P00578,P78134	972	KDLLKFLKAQ	Ac	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q3YUZ6	972	KDLLKFLKAQ	Ac	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q3T0X6	60	PSKGPLQSVQ	unAc	
+P62249,B2RDD5,P17008	60	PSKGPLQSVQ	unAc	
+P14131,Q3THM9	60	PSKGPLQSVQ	unAc	
+Q29201,Q6QAQ2	60	PSKGPLQSVQ	unAc	
+P62250,P17008	60	PSKGPLQSVQ	unAc	
+Q76N24	233	ARGPKKHLKR	unAc	
+P62705,P12631,P12750,P27576,P55831,Q14727	233	ARGPKKHLKR	unAc	
+P62701,P12631,P12750,P27576,P55831,Q14727,Q6IPY4	233	ARGPKKHLKR	unAc	
+Q76MY1	233	ARGPKKHLKR	unAc	
+P62704,P12631,P12750,P27576,P55831,Q14727	233	ARGPKKHLKR	unAc	
+O62738	233	ARGPKKHLKR	unAc	
+P62702,P12631,P12750,P27576,P55831,Q14727,Q9CXN0	233	ARGPKKHLKR	unAc	
+P62703,P12631,P12750,P27576,P55831,Q14727	233	ARGPKKHLKR	unAc	
+Q2HJF9	199	WMLVPIAFAL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q8WXG1,Q8WVI4	197	WVLTPAAFAG	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q8CBB9,Q3U5I6,Q3U5T4,Q3U622,Q3U627,Q3U7I6,Q3U7M1,Q3U8F4,Q3U8U7,Q3U941,Q3U977,Q3U9E1,Q3U9J0,Q3U9J3,Q3UBW6,Q3UC07,Q3UDI0,Q6PEU4,Q8VHM2,Q9JHD4	198	GMLVPTALAA	unAc	
+Q9MZU4	198	WTLVPVTFAL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q5RCW8	197	WVLTPAAFAE	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+O70600	196	LVPTALAARL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P26452,Q3ZCE4	52	SGALDVLQMK	Ac	
+Q2L9X0	52	SGALDVLQMK	Ac	
+P38982	52	SGALDVLQMK	Ac	
+P08865,P11085,P12030,Q16471,Q6IPD1,Q6IPD2,Q6NSD1,Q6NXQ8,Q86VC0	52	SGALDVLQMK	Ac	
+P14206,Q58E74,Q8BHL0,Q8BNL2,Q91V31,Q9CY13	52	SGALDVLQMK	Ac	
+Q4GWZ2	52	SGALDVLQMK	Ac	
+P38983,B6ZB78	52	SGGLDVLQMK	Ac	
+A6YRY8,B0L420	52	SGALDVLQMK	Ac	
+P19793,B3KY83,Q2NL52,Q2V504	145	DTKHFLPLDF	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P28700	150	DTKHFLPLDF	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q05343	150	DTKHFLPLDF	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q7TSH6,A0A338P6Z6,Q69ZP8,Q6PFF0,Q8R1B3	49	DAVNAFNQEL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q63627,F1LSM7	49	DAVNAFNQEL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q01105,A5A5H4,A6NGV1,B4DUE2,Q15541,Q5VXV1,Q5VXV2,Q6FHZ5	11	APKRQSPLPP	unAc	
+Q9EQU5,A2BE95,Q9CY82,Q9D0A9,Q9Z181	11	APKRQSAILP	unAc	
+Q63945,Q7TPA3	11	APKRQSAILP	unAc	
+Q96EQ0	131	SSIKHLVYAV	Ac	
+Q8VD33	131	SSVKPLVYAV	unAc	
+Q80W98	131	SSVKPLVYAV	unAc	
+P0DTC0	72	SRSESKESRK	Ac	
+Q9BZQ2,Q4G195,Q9BZQ3,Q9H2B6	570	ASGSKASVPA	Ac	
+Q9BZQ2,Q4G195,Q9BZQ3,Q9H2B6	645	ASGSKASVPA	Ac	
+Q3TTP0	556	ESDATTSEPK	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q3TTP0	631	ESDATTSEPK	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+G3X9J0	1442	TTYRPLPNDG	unAc	
+Q9NR45,B2RE98,Q8WUV9,Q9BWS6,Q9NVD4	61	PLELELCPGR	unAc	
+Q9NR45,B2RE98,Q8WUV9,Q9BWS6,Q9NVD4	74	PLELELCPGR	unAc	
+Q9NR45,B2RE98,Q8WUV9,Q9BWS6,Q9NVD4	290	PLELELCPGR	unAc	
+Q99J77,Q9JJH0	61	PLELELCPGR	unAc	
+Q99J77,Q9JJH0	74	PLELELCPGR	unAc	
+Q99J77,Q9JJH0	79	PLELELCPGR	unAc	
+Q99J77,Q9JJH0	290	PLELELCPGR	unAc	
+Q96EB6,Q2XNF6,Q5JVQ0,Q9GZR9,Q9Y6F0	238	ADEAALALQP	Ac	
+Q96EB6,Q2XNF6,Q5JVQ0,Q9GZR9,Q9Y6F0	377	ADEAALALQP	Ac	
+Q96EB6,Q2XNF6,Q5JVQ0,Q9GZR9,Q9Y6F0	430	ADEAALALQP	Ac	
+Q96EB6,Q2XNF6,Q5JVQ0,Q9GZR9,Q9Y6F0	513	ADEAALALQP	Ac	
+Q96EB6,Q2XNF6,Q5JVQ0,Q9GZR9,Q9Y6F0	610	ADEAALALQP	Ac	
+Q923E4,Q9QXG8	230	ADEVALALQA	Ac	
+Q923E4,Q9QXG8	369	ADEVALALQA	Ac	
+Q923E4,Q9QXG8	422	ADEVALALQA	Ac	
+Q923E4,Q9QXG8	505	ADEVALALQA	Ac	
+Q923E4,Q9QXG8	600	ADEVALALQA	Ac	
+A0A0G2JZ79	46	IGTDPRTILK	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+A0A0G2JZ79	185	IGTDPRTILK	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+A0A0G2JZ79	238	IGTDPRTILK	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+A0A0G2JZ79	321	IGTDPRTILK	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+A0A0G2JZ79	417	IGTDPRTILK	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q8NDV3,A0AV46,B0QY23,B0QY24,Q5TIC3,Q6ZUF9,Q9Y3G5	648	AHLELLLVEN	Ac	
+Q8NDV3,A0AV46,B0QY23,B0QY24,Q5TIC3,Q6ZUF9,Q9Y3G5	713	AHLELLLVEN	Ac	
+Q8NDV3,A0AV46,B0QY23,B0QY24,Q5TIC3,Q6ZUF9,Q9Y3G5	1033	AHLELLLVEN	Ac	
+Q920F6	648	GHLELLLVEN	unAc	
+Q920F6	713	GHLELLLVEN	unAc	
+Q920F6	1032	GHLELLLVEN	unAc	
+H6BDU4	122	ALKAVCVLKG	Ac	
+H6BDU4	136	ALKAVCVLKG	Ac	
+A5D979	230	DEDLVLALQL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q9H040,B1AKT0,B5MEF7,Q5TE78,Q6UWW6,Q96BC5,Q96KA0	230	DDDLMLALRL	Ac	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+G3X912,B2RY42	231	DEDLVVALRL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+D3ZVU1	230	DEDLVVALRL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q14247,Q8N707,Q96H99	107	WKASAGHAVS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q14247,Q8N707,Q96H99	152	WKASAGHAVS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q14247,Q8N707,Q96H99	171	WKASAGHAVS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q14247,Q8N707,Q96H99	193	WKASAGHAVS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q14247,Q8N707,Q96H99	314	WKASAGHAVS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q60598,Q3UGC2	107	WKASAGHAVS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q60598,Q3UGC2	152	WKASAGHAVS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q60598,Q3UGC2	171	WKASAGHAVS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q60598,Q3UGC2	193	WKASAGHAVS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q60598,Q3UGC2	314	WKASAGHAVS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q66HL2,D3ZRB0	107	WKASAGHAVS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q66HL2,D3ZRB0	152	WKASAGHAVS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q66HL2,D3ZRB0	171	WKASAGHAVS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q66HL2,D3ZRB0	193	WKASAGHAVS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q66HL2,D3ZRB0	277	WKASAGHAVS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P36394,O88776,Q63558	81	EGHVKRPMNA	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P61635	601	AQWNQLQQLD	Ac	
+P61635	615	AQWNQLQQLD	Ac	
+P61635	631	AQWNQLQQLD	Ac	
+P61635	685	AQWNQLQQLD	Ac	
+P61635	707	AQWNQLQQLD	Ac	
+P40763,A8K7B8,K7ENL3,O14916,Q9BW54	601	AQWNQLQQLD	Ac	
+P40763,A8K7B8,K7ENL3,O14916,Q9BW54	615	AQWNQLQQLD	Ac	
+P40763,A8K7B8,K7ENL3,O14916,Q9BW54	631	AQWNQLQQLD	Ac	
+P40763,A8K7B8,K7ENL3,O14916,Q9BW54	685	AQWNQLQQLD	Ac	
+P40763,A8K7B8,K7ENL3,O14916,Q9BW54	707	AQWNQLQQLD	Ac	
+P42227,A2A5D1,B7ZC17	601	AQWNQLQQLD	Ac	
+P42227,A2A5D1,B7ZC17	615	AQWNQLQQLD	Ac	
+P42227,A2A5D1,B7ZC17	631	AQWNQLQQLD	Ac	
+P42227,A2A5D1,B7ZC17	685	AQWNQLQQLD	Ac	
+P42227,A2A5D1,B7ZC17	707	AQWNQLQQLD	Ac	
+Q19S50	601	AQWNQLQQLD	Ac	
+Q19S50	615	AQWNQLQQLD	Ac	
+Q19S50	631	AQWNQLQQLD	Ac	
+Q19S50	685	AQWNQLQQLD	Ac	
+Q19S50	707	AQWNQLQQLD	Ac	
+P52631	601	AQWNQLQQLD	Ac	
+P52631	615	AQWNQLQQLD	Ac	
+P52631	631	AQWNQLQQLD	Ac	
+P52631	685	AQWNQLQQLD	Ac	
+P52631	707	AQWNQLQQLD	Ac	
+Q04752	34	DYSYDEDLDE	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q04752	38	DYSYDEDLDE	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q04752	72	DYSYDEDLDE	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q9GKL2	34	DYSYDEDLDE	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q9GKL2	38	DYSYDEDLDE	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q9GKL2	72	DYSYDEDLDE	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q95L87	34	DYSYDEDLDE	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q95L87	38	DYSYDEDLDE	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q95L87	72	DYSYDEDLDE	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P33242,Q812G5	34	DYSYDEDLDE	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P33242,Q812G5	38	DYSYDEDLDE	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P33242,Q812G5	72	DYSYDEDLDE	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P79387,A2BD07	34	DYSYDEDLDE	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P79387,A2BD07	38	DYSYDEDLDE	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P79387,A2BD07	72	DYSYDEDLDE	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P50569	34	DYSYDEDLDE	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P50569	38	DYSYDEDLDE	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P50569	72	DYSYDEDLDE	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+D4AE59,A0A0H2UI02,D4A179	296	DVADPQPLGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+D4AE59,A0A0H2UI02,D4A179	311	DVADPQPLGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+D4AE59,A0A0H2UI02,D4A179	420	DVADPQPLGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+D4AE59,A0A0H2UI02,D4A179	426	DVADPQPLGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+D4AE59,A0A0H2UI02,D4A179	434	DVADPQPLGL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q7SIA2,Q7SIG9	300	AALCLTVNAG	Ac	
+Q7SIA2,Q7SIG9	417	AALCLTVNAG	Ac	
+Q7SIA2,Q7SIG9	498	AALCLTVNAG	Ac	
+Q7SIA2,Q7SIG9	535	AALCLTVNAG	Ac	
+Q7SIA2,Q7SIG9	542	AALCLTVNAG	Ac	
+Q7SIA2,Q7SIG9	637	AALCLTVNAG	Ac	
+Q7SIA2,Q7SIG9	787	AALCLTVNAG	Ac	
+Q7SIA2,Q7SIG9	860	AALCLTVNAG	Ac	
+Q7SIA2,Q7SIG9	1502	AALCLTVNAG	Ac	
+Q5XIM7	117	LMQAAVRLVR	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q5XIM7	170	LMQAAVRLVR	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q8BML9,Q3TN94,Q8BU21	309	ATPDSLALFT	Ac	
+Q66H61,F1LPA0	309	ATPDSLALFT	Ac	
+P26636,G3ILI3	323	VLDLDLFRVD	unAc	
+P13642,G1TXX6	323	VLDLDLFRVD	unAc	
+Q17QQ4	5	ESGKMASPKS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q16594,D3DWA3,Q5U0D1,Q9BTS1	5	ESGKTASPKS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q8VI33,Q32P09,Q80XS3,Q9CV61	5	ESGKMASPKS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q5BKE0,Q6UV34,Q7TP20	5	ESGKMASPKS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P17285	28	DPIDPDLEPW	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P17285	50	DPIDPDLEPW	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P17285	51	DPIDPDLEPW	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q1A246	28	EPVDPELEPW	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q1A246	50	EPVDPELEPW	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q1A246	51	EPVDPELEPW	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q1A264	28	EPIDPNLEPW	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q1A264	51	EPIDPNLEPW	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P29172,P29173,Q28185,Q28186,Q28187,Q28188,Q28189,Q28190,Q32KT2	154	AEPRQEFDVM	Ac	
+P29172,P29173,Q28185,Q28186,Q28187,Q28188,Q28189,Q28190,Q32KT2	232	AEPRQEFDVM	Ac	
+P29172,P29173,Q28185,Q28186,Q28187,Q28188,Q28189,Q28190,Q32KT2	266	AEPRQEFDVM	Ac	
+P29172,P29173,Q28185,Q28186,Q28187,Q28188,Q28189,Q28190,Q32KT2	288	AEPRQEFDVM	Ac	
+P29172,P29173,Q28185,Q28186,Q28187,Q28188,Q28189,Q28190,Q32KT2	297	AEPRQEFDVM	Ac	
+P29172,P29173,Q28185,Q28186,Q28187,Q28188,Q28189,Q28190,Q32KT2	305	AEPRQEFDVM	Ac	
+P29172,P29173,Q28185,Q28186,Q28187,Q28188,Q28189,Q28190,Q32KT2	318	AEPRQEFDVM	Ac	
+P29172,P29173,Q28185,Q28186,Q28187,Q28188,Q28189,Q28190,Q32KT2	324	AEPRQEFDVM	Ac	
+P29172,P29173,Q28185,Q28186,Q28187,Q28188,Q28189,Q28190,Q32KT2	328	AEPRQEFDVM	Ac	
+P29172,P29173,Q28185,Q28186,Q28187,Q28188,Q28189,Q28190,Q32KT2	338	AEPRQEFDVM	Ac	
+P29172,P29173,Q28185,Q28186,Q28187,Q28188,Q28189,Q28190,Q32KT2	350	AEPRQEFDVM	Ac	
+P29172,P29173,Q28185,Q28186,Q28187,Q28188,Q28189,Q28190,Q32KT2	354	AEPRQEFDVM	Ac	
+P29172,P29173,Q28185,Q28186,Q28187,Q28188,Q28189,Q28190,Q32KT2	376	AEPRQEFDVM	Ac	
+P29172,P29173,Q28185,Q28186,Q28187,Q28188,Q28189,Q28190,Q32KT2	392	AEPRQEFDVM	Ac	
+O02828	125	AEPRQEFDVM	Ac	
+O02828	187	AEPRQEFDVM	Ac	
+O02828	221	AEPRQEFDVM	Ac	
+O02828	243	AEPRQEFDVM	Ac	
+O02828	252	AEPRQEFDVM	Ac	
+O02828	260	AEPRQEFDVM	Ac	
+O02828	273	AEPRQEFDVM	Ac	
+O02828	279	AEPRQEFDVM	Ac	
+O02828	283	AEPRQEFDVM	Ac	
+O02828	293	AEPRQEFDVM	Ac	
+O02828	305	AEPRQEFDVM	Ac	
+O02828	309	AEPRQEFDVM	Ac	
+O02828	331	AEPRQEFDVM	Ac	
+O02828	347	AEPRQEFDVM	Ac	
+Q5YCW0	480	AEPRQEFEVM	Ac	
+Q5YCW0	560	AEPRQEFEVM	Ac	
+Q5YCW0	594	AEPRQEFEVM	Ac	
+Q5YCW0	616	AEPRQEFEVM	Ac	
+Q5YCW0	625	AEPRQEFEVM	Ac	
+Q5YCW0	633	AEPRQEFEVM	Ac	
+Q5YCW0	646	AEPRQEFEVM	Ac	
+Q5YCW0	652	AEPRQEFEVM	Ac	
+Q5YCW0	656	AEPRQEFEVM	Ac	
+Q5YCW0	666	AEPRQEFEVM	Ac	
+Q5YCW0	678	AEPRQEFEVM	Ac	
+Q5YCW0	682	AEPRQEFEVM	Ac	
+Q5YCW0	704	AEPRQEFEVM	Ac	
+Q5YCW0	720	AEPRQEFEVM	Ac	
+P10636,P18518,Q14799,Q15549,Q15550,Q15551,Q1RMF6,Q53YB1,Q5CZI7,Q5XWF0,Q6QT54,Q9UDJ3,Q9UMH0,Q9UQ96	480	AEPRQEFEVM	Ac	
+P10636,P18518,Q14799,Q15549,Q15550,Q15551,Q1RMF6,Q53YB1,Q5CZI7,Q5XWF0,Q6QT54,Q9UDJ3,Q9UMH0,Q9UQ96	542	AEPRQEFEVM	Ac	
+P10636,P18518,Q14799,Q15549,Q15550,Q15551,Q1RMF6,Q53YB1,Q5CZI7,Q5XWF0,Q6QT54,Q9UDJ3,Q9UMH0,Q9UQ96	576	AEPRQEFEVM	Ac	
+P10636,P18518,Q14799,Q15549,Q15550,Q15551,Q1RMF6,Q53YB1,Q5CZI7,Q5XWF0,Q6QT54,Q9UDJ3,Q9UMH0,Q9UQ96	598	AEPRQEFEVM	Ac	
+P10636,P18518,Q14799,Q15549,Q15550,Q15551,Q1RMF6,Q53YB1,Q5CZI7,Q5XWF0,Q6QT54,Q9UDJ3,Q9UMH0,Q9UQ96	607	AEPRQEFEVM	Ac	
+P10636,P18518,Q14799,Q15549,Q15550,Q15551,Q1RMF6,Q53YB1,Q5CZI7,Q5XWF0,Q6QT54,Q9UDJ3,Q9UMH0,Q9UQ96	615	AEPRQEFEVM	Ac	
+P10636,P18518,Q14799,Q15549,Q15550,Q15551,Q1RMF6,Q53YB1,Q5CZI7,Q5XWF0,Q6QT54,Q9UDJ3,Q9UMH0,Q9UQ96	628	AEPRQEFEVM	Ac	
+P10636,P18518,Q14799,Q15549,Q15550,Q15551,Q1RMF6,Q53YB1,Q5CZI7,Q5XWF0,Q6QT54,Q9UDJ3,Q9UMH0,Q9UQ96	634	AEPRQEFEVM	Ac	
+P10636,P18518,Q14799,Q15549,Q15550,Q15551,Q1RMF6,Q53YB1,Q5CZI7,Q5XWF0,Q6QT54,Q9UDJ3,Q9UMH0,Q9UQ96	638	AEPRQEFEVM	Ac	
+P10636,P18518,Q14799,Q15549,Q15550,Q15551,Q1RMF6,Q53YB1,Q5CZI7,Q5XWF0,Q6QT54,Q9UDJ3,Q9UMH0,Q9UQ96	648	AEPRQEFEVM	Ac	
+P10636,P18518,Q14799,Q15549,Q15550,Q15551,Q1RMF6,Q53YB1,Q5CZI7,Q5XWF0,Q6QT54,Q9UDJ3,Q9UMH0,Q9UQ96	660	AEPRQEFEVM	Ac	
+P10636,P18518,Q14799,Q15549,Q15550,Q15551,Q1RMF6,Q53YB1,Q5CZI7,Q5XWF0,Q6QT54,Q9UDJ3,Q9UMH0,Q9UQ96	664	AEPRQEFEVM	Ac	
+P10636,P18518,Q14799,Q15549,Q15550,Q15551,Q1RMF6,Q53YB1,Q5CZI7,Q5XWF0,Q6QT54,Q9UDJ3,Q9UMH0,Q9UQ96	686	AEPRQEFEVM	Ac	
+P10636,P18518,Q14799,Q15549,Q15550,Q15551,Q1RMF6,Q53YB1,Q5CZI7,Q5XWF0,Q6QT54,Q9UDJ3,Q9UMH0,Q9UQ96	702	AEPRQEFEVM	Ac	
+Q5YCV9	480	AEPRQEFDVM	Ac	
+Q5YCV9	560	AEPRQEFDVM	Ac	
+Q5YCV9	594	AEPRQEFDVM	Ac	
+Q5YCV9	616	AEPRQEFDVM	Ac	
+Q5YCV9	625	AEPRQEFDVM	Ac	
+Q5YCV9	633	AEPRQEFDVM	Ac	
+Q5YCV9	646	AEPRQEFDVM	Ac	
+Q5YCV9	652	AEPRQEFDVM	Ac	
+Q5YCV9	656	AEPRQEFDVM	Ac	
+Q5YCV9	666	AEPRQEFDVM	Ac	
+Q5YCV9	678	AEPRQEFDVM	Ac	
+Q5YCV9	682	AEPRQEFDVM	Ac	
+Q5YCV9	704	AEPRQEFDVM	Ac	
+Q5YCV9	720	AEPRQEFDVM	Ac	
+P57786	163	AEPRQEFDVM	Ac	
+P57786	243	AEPRQEFDVM	Ac	
+P57786	277	AEPRQEFDVM	Ac	
+P57786	299	AEPRQEFDVM	Ac	
+P57786	308	AEPRQEFDVM	Ac	
+P57786	316	AEPRQEFDVM	Ac	
+P57786	329	AEPRQEFDVM	Ac	
+P57786	335	AEPRQEFDVM	Ac	
+P57786	339	AEPRQEFDVM	Ac	
+P57786	349	AEPRQEFDVM	Ac	
+P57786	361	AEPRQEFDVM	Ac	
+P57786	365	AEPRQEFDVM	Ac	
+P57786	387	AEPRQEFDVM	Ac	
+P57786	403	AEPRQEFDVM	Ac	
+P10637,A2A5Y9,P10638,Q60684,Q60685,Q60686,Q62286,Q91WK4	455	ADPRQEFDTM	Ac	
+P10637,A2A5Y9,P10638,Q60684,Q60685,Q60686,Q62286,Q91WK4	517	ADPRQEFDTM	Ac	
+P10637,A2A5Y9,P10638,Q60684,Q60685,Q60686,Q62286,Q91WK4	551	ADPRQEFDTM	Ac	
+P10637,A2A5Y9,P10638,Q60684,Q60685,Q60686,Q62286,Q91WK4	573	ADPRQEFDTM	Ac	
+P10637,A2A5Y9,P10638,Q60684,Q60685,Q60686,Q62286,Q91WK4	582	ADPRQEFDTM	Ac	
+P10637,A2A5Y9,P10638,Q60684,Q60685,Q60686,Q62286,Q91WK4	590	ADPRQEFDTM	Ac	
+P10637,A2A5Y9,P10638,Q60684,Q60685,Q60686,Q62286,Q91WK4	603	ADPRQEFDTM	Ac	
+P10637,A2A5Y9,P10638,Q60684,Q60685,Q60686,Q62286,Q91WK4	609	ADPRQEFDTM	Ac	
+P10637,A2A5Y9,P10638,Q60684,Q60685,Q60686,Q62286,Q91WK4	613	ADPRQEFDTM	Ac	
+P10637,A2A5Y9,P10638,Q60684,Q60685,Q60686,Q62286,Q91WK4	623	ADPRQEFDTM	Ac	
+P10637,A2A5Y9,P10638,Q60684,Q60685,Q60686,Q62286,Q91WK4	635	ADPRQEFDTM	Ac	
+P10637,A2A5Y9,P10638,Q60684,Q60685,Q60686,Q62286,Q91WK4	639	ADPRQEFDTM	Ac	
+P10637,A2A5Y9,P10638,Q60684,Q60685,Q60686,Q62286,Q91WK4	661	ADPRQEFDTM	Ac	
+P10637,A2A5Y9,P10638,Q60684,Q60685,Q60686,Q62286,Q91WK4	677	ADPRQEFDTM	Ac	
+Q5YCW1	480	AEPRQEFEVM	Ac	
+Q5YCW1	560	AEPRQEFEVM	Ac	
+Q5YCW1	594	AEPRQEFEVM	Ac	
+Q5YCW1	616	AEPRQEFEVM	Ac	
+Q5YCW1	625	AEPRQEFEVM	Ac	
+Q5YCW1	633	AEPRQEFEVM	Ac	
+Q5YCW1	646	AEPRQEFEVM	Ac	
+Q5YCW1	652	AEPRQEFEVM	Ac	
+Q5YCW1	656	AEPRQEFEVM	Ac	
+Q5YCW1	666	AEPRQEFEVM	Ac	
+Q5YCW1	678	AEPRQEFEVM	Ac	
+Q5YCW1	682	AEPRQEFEVM	Ac	
+Q5YCW1	704	AEPRQEFEVM	Ac	
+Q5YCW1	720	AEPRQEFEVM	Ac	
+Q9MYX8	105	AEPRQEFDVM	Ac	
+Q9MYX8	167	AEPRQEFDVM	Ac	
+Q9MYX8	201	AEPRQEFDVM	Ac	
+Q9MYX8	223	AEPRQEFDVM	Ac	
+Q9MYX8	232	AEPRQEFDVM	Ac	
+Q9MYX8	240	AEPRQEFDVM	Ac	
+Q9MYX8	253	AEPRQEFDVM	Ac	
+Q9MYX8	259	AEPRQEFDVM	Ac	
+Q9MYX8	263	AEPRQEFDVM	Ac	
+Q9MYX8	273	AEPRQEFDVM	Ac	
+Q9MYX8	285	AEPRQEFDVM	Ac	
+Q9MYX8	289	AEPRQEFDVM	Ac	
+Q9MYX8	311	AEPRQEFDVM	Ac	
+Q9MYX8	327	AEPRQEFDVM	Ac	
+Q5S6V2	480	AEPHQEFDVT	Ac	
+Q5S6V2	542	AEPHQEFDVT	Ac	
+Q5S6V2	576	AEPHQEFDVT	Ac	
+Q5S6V2	598	AEPHQEFDVT	Ac	
+Q5S6V2	607	AEPHQEFDVT	Ac	
+Q5S6V2	615	AEPHQEFDVT	Ac	
+Q5S6V2	628	AEPHQEFDVT	Ac	
+Q5S6V2	634	AEPHQEFDVT	Ac	
+Q5S6V2	638	AEPHQEFDVT	Ac	
+Q5S6V2	648	AEPHQEFDVT	Ac	
+Q5S6V2	660	AEPHQEFDVT	Ac	
+Q5S6V2	664	AEPHQEFDVT	Ac	
+Q5S6V2	686	AEPHQEFDVT	Ac	
+Q5S6V2	702	AEPHQEFDVT	Ac	
+P19332,Q63567,Q63677,Q9QW06	474	AEPRQEFDTM	Ac	
+P19332,Q63567,Q63677,Q9QW06	536	AEPRQEFDTM	Ac	
+P19332,Q63567,Q63677,Q9QW06	570	AEPRQEFDTM	Ac	
+P19332,Q63567,Q63677,Q9QW06	592	AEPRQEFDTM	Ac	
+P19332,Q63567,Q63677,Q9QW06	601	AEPRQEFDTM	Ac	
+P19332,Q63567,Q63677,Q9QW06	609	AEPRQEFDTM	Ac	
+P19332,Q63567,Q63677,Q9QW06	622	AEPRQEFDTM	Ac	
+P19332,Q63567,Q63677,Q9QW06	628	AEPRQEFDTM	Ac	
+P19332,Q63567,Q63677,Q9QW06	632	AEPRQEFDTM	Ac	
+P19332,Q63567,Q63677,Q9QW06	642	AEPRQEFDTM	Ac	
+P19332,Q63567,Q63677,Q9QW06	654	AEPRQEFDTM	Ac	
+P19332,Q63567,Q63677,Q9QW06	658	AEPRQEFDTM	Ac	
+P19332,Q63567,Q63677,Q9QW06	680	AEPRQEFDTM	Ac	
+P19332,Q63567,Q63677,Q9QW06	696	AEPRQEFDTM	Ac	
+Q6TS35	152	AEPRQEFDTA	Ac	
+Q6TS35	214	AEPRQEFDTA	Ac	
+Q6TS35	248	AEPRQEFDTA	Ac	
+Q6TS35	270	AEPRQEFDTA	Ac	
+Q6TS35	279	AEPRQEFDTA	Ac	
+Q6TS35	287	AEPRQEFDTA	Ac	
+Q6TS35	300	AEPRQEFDTA	Ac	
+Q6TS35	306	AEPRQEFDTA	Ac	
+Q6TS35	310	AEPRQEFDTA	Ac	
+Q6TS35	320	AEPRQEFDTA	Ac	
+Q6TS35	332	AEPRQEFDTA	Ac	
+Q6TS35	336	AEPRQEFDTA	Ac	
+Q6TS35	358	AEPRQEFDTA	Ac	
+Q6TS35	374	AEPRQEFDTA	Ac	
+P68362,P02551,P05210,P05212	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q71U36,A8K0B8,G3V1U9,P04687,P05209	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P68369,P02551,P05210,P05212,Q3TGF0,Q3TIW2,Q3TPJ1,Q3ULN1,Q5XJF8	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+A5A6J1	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P02550	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P68370,P02551,P05210,P05212,Q6P6G6	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P81947,A6H700	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P68361,P04687,P05209	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P68363,P04687,P05209,Q27I68,Q8WU19	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q4R538	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P68360,P04687,P05209	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P05213,Q3TY23,Q3U8B1,Q3UAW8,Q4KMW2	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q5R1W4	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q2XVP4	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q6P9V9	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q3ZCJ7	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P68365,P05216,Q9CSE9	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q9BQE3	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P68373,P05216,Q9CSE9	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q6AYZ1	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q2HJ86	40	RECISVHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P0DPH7,A6NJQ0,Q13748,Q5W099,Q6PEY3,Q96F18	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P0DPH8,A6NJQ0,Q13748,Q5W099,Q6PEY3,Q96F18	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q6PEY2	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q32KN8	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P05214	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q68FR8	40	RECISIHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P81948,Q17QT1,Q5E986	40	RECISVHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P68366,A8MUB1,B3KNQ6,P05215	40	RECISVHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P68367,P05215	40	RECISVHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P68368,P05215,Q3TY31	40	RECISVHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q5XIF6	40	RECISVHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q52PV9	40	RECISVHVGQ	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+O60907,A8K044,A8K4J7,Q86UY2	153	TELAGASSSC	unAc	
+Q4R8H1	153	TELAGASSSC	unAc	
+Q9QXE7,Q8BMM0,Q8BYQ4,Q8C0A1	102	SITSDEVNFL	Ac	
+Q9BQ87,A1L4B3	102	SITSDEVNFL	Ac	
+Q99593,A6ND77,O15301,Q96TB0,Q9Y4I2	339	ADADEGFGLA	Ac	
+P70326,Q9R003	339	ADTDEGFGLA	Ac	
+Q5I2P1	338	ADADEGFGLA	Ac	
+G1TGF1,G1SS21,G1U859	33	QPASAKWYDR	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q2KIN8	238	ASTSRLDALP	Ac	
+Q00403,A8K1A7,Q5JS30	238	ASTSRLDALP	Ac	
+Q4R3J5	238	ASTSRLDALP	Ac	
+P62915,P29053	238	ASTSRLDALP	Ac	
+Q5R886	238	ASTSRLDALP	Ac	
+P62916,P29053	238	ASTSRLDALP	Ac	
+Q9WVJ6,Q6P6R6	468	AEELNLERCD	Ac	
+P21775,Q5FVR9	183	SESVGRTSAM	Ac	
+P21775,Q5FVR9	244	SESVGRTSAM	Ac	
+Q04726,B4DPT0,E9PD64,F8W964,Q6PI57,Q8IVV6,Q8WVR2,Q9HCM5	343	YPQGRHPAPH	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q04726,B4DPT0,E9PD64,F8W964,Q6PI57,Q8IVV6,Q8WVR2,Q9HCM5	336	YPQGRHPAPH	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P86216,A0A1U7Q6T2	14	APSRKFFVGG	unAc	
+P86216,A0A1U7Q6T2	156	APSRKFFVGG	unAc	
+P86216,A0A1U7Q6T2	194	APSRKFFVGG	unAc	
+P86216,A0A1U7Q6T2	238	APSRKFFVGG	unAc	
+P17751,Q3TJH2,Q3UC04,Q3UKG9,Q64513,Q9CVF9,Q9CWE7	14	APTRKFFVGG	unAc	
+P17751,Q3TJH2,Q3UC04,Q3UKG9,Q64513,Q9CVF9,Q9CWE7	156	APTRKFFVGG	unAc	
+P17751,Q3TJH2,Q3UC04,Q3UKG9,Q64513,Q9CVF9,Q9CWE7	194	APTRKFFVGG	unAc	
+P17751,Q3TJH2,Q3UC04,Q3UKG9,Q64513,Q9CVF9,Q9CWE7	238	APTRKFFVGG	unAc	
+P00939,G1TS29	14	APSRKFFVGG	unAc	
+P00939,G1TS29	156	APSRKFFVGG	unAc	
+P00939,G1TS29	194	APSRKFFVGG	unAc	
+P00939,G1TS29	238	APSRKFFVGG	unAc	
+P09493,B7Z5T7,D9YZV2,D9YZV3,D9YZV8,P09494,P10469,Q6DV89,Q6DV90,Q7Z6L8,Q86W64,Q96IK2,Q9UCI1,Q9UCI2,Q9UCY9,Q9Y427	213	DAIKKKMQML	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q5KR47,Q32PI2	228	EAIKKKMQML	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P06753,D3DV71,P12324,Q2QD06,Q5VU58,Q5VU63,Q5VU66,Q5VU71,Q5VU72,Q8TCG3,Q969Q2,Q9NQH8	177	MEAIKKKMQM	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P06753,D3DV71,P12324,Q2QD06,Q5VU58,Q5VU63,Q5VU66,Q5VU71,Q5VU72,Q8TCG3,Q969Q2,Q9NQH8	215	MEAIKKKMQM	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P06753,D3DV71,P12324,Q2QD06,Q5VU58,Q5VU63,Q5VU66,Q5VU71,Q5VU72,Q8TCG3,Q969Q2,Q9NQH8	125	MEAIKKKMQM	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P21107,Q09021,Q60606,Q80SW6,Q9EPW3	228	MEAIKKKMQM	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q86XT4,Q86XT3	373	AWQVSLLELE	Ac	
+Q810I2	372	AWRLTVPELQ	Ac	
+Q865W2	372	AWQVSVPELE	Ac	
+Q810I1	372	AWQLTVPELQ	Ac	
+P62326,A2VDY8,P01253,P01254,Q56JV5,Q63576	4	SDKPDMAEIE	Ac	
+P62326,A2VDY8,P01253,P01254,Q56JV5,Q63576	12	SDKPDMAEIE	Ac	
+P62326,A2VDY8,P01253,P01254,Q56JV5,Q63576	32	SDKPDMAEIE	Ac	
+Q6S9C5	4	SDKPDMAEIE	Ac	
+Q6S9C5	12	SDKPDMAEIE	Ac	
+Q6S9C5	32	SDKPDMAEIE	Ac	
+P62327,P01253,P01254,Q63576,Q6X9X4	4	SDKPDMAEIE	Ac	
+P62327,P01253,P01254,Q63576,Q6X9X4	12	SDKPDMAEIE	Ac	
+P62327,P01253,P01254,Q63576,Q6X9X4	32	SDKPDMAEIE	Ac	
+P62328,P01253,P01254,Q546P5,Q63576,Q9UE55	4	SDKPDMAEIE	Ac	
+P62328,P01253,P01254,Q546P5,Q63576,Q9UE55	12	SDKPDMAEIE	Ac	
+P62328,P01253,P01254,Q546P5,Q63576,Q9UE55	32	SDKPDMAEIE	Ac	
+Q7YRC3	4	SDKPDMGEIQ	Ac	
+Q7YRC3	12	SDKPDMGEIQ	Ac	
+Q7YRC3	32	SDKPDMGEIQ	Ac	
+P20065	10	LLPATMSDKP	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P20065	18	LLPATMSDKP	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P20065	38	LLPATMSDKP	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q95274,Q2EN78	4	SDKPDMAEIE	Ac	
+Q95274,Q2EN78	12	SDKPDMAEIE	Ac	
+Q95274,Q2EN78	32	SDKPDMAEIE	Ac	
+Q5R7H8,Q5R849	4	SDKPDMAEIE	Ac	
+Q5R7H8,Q5R849	12	SDKPDMAEIE	Ac	
+Q5R7H8,Q5R849	32	SDKPDMAEIE	Ac	
+P34032	4	ADKPDMAEIE	Ac	
+P34032	12	ADKPDMAEIE	Ac	
+P34032	32	ADKPDMAEIE	Ac	
+P62329,P01253,P01254,Q0P5V6,Q63576	4	SDKPDMAEIE	Ac	
+P62329,P01253,P01254,Q0P5V6,Q63576	12	SDKPDMAEIE	Ac	
+P62329,P01253,P01254,Q0P5V6,Q63576	32	SDKPDMAEIE	Ac	
+O43818,B2R996,Q8IZ30	12	SATAAARKRG	Ac	
+O43818,B2R996,Q8IZ30	25	SATAAARKRG	Ac	
+Q91WM3,Q8CFB7	12	STAVATRKRA	Ac	
+Q91WM3,Q8CFB7	25	STAVATRKRA	Ac	
+Q5D006,F7FEA4,Q0D2L8	194	AAVAADPAAA	Ac	
+Q14157,B4E0U8,Q5VU75,Q5VU76,Q9BTU3,Q9UGL2,Q9UGL3,Q9UGL4,Q9UGL5	976	MTSVGTNRAR	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q14157,B4E0U8,Q5VU75,Q5VU76,Q9BTU3,Q9UGL2,Q9UGL3,Q9UGL4,Q9UGL5	969	MTSVGTNRAR	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q5JXB2,E9KL27	83	AELPHRIIKE	Ac	
+O75385,Q9UQ28	162	EPGRGGTETV	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+O75385,Q9UQ28	607	EPGRGGTETV	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+O70405,Q6PGB2	162	EPGRGGVETV	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+O70405,Q6PGB2	606	EPGRGGVETV	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P68002,Q5E9A2,Q9MYV7,Q9TT14	277	ATYGQNCARP	Ac	
+P45880,Q5VWK1,Q5VWK3,Q6IB40,Q7L3J5,Q9BWK8,Q9Y5I6	277	ATHGQTCARP	Ac	
+P82013	108	IPPSYADLGK	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P82013	265	IPPSYADLGK	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P86223,A0A1U7R165	32	ADCCVRTCPR	Ac	
+P86223,A0A1U7R165	121	ADCCVRTCPR	Ac	
+P86223,A0A1U7R165	278	ADCCVRTCPR	Ac	
+Q60930,Q78MH6,Q99L98	278	AECCVPVCPR	Ac	
+Q9MZ15	277	ATHGQTCPRP	Ac	
+P68003,Q9TT14	277	ATHGQTCARP	Ac	
+P81155,Q9JI32	278	AECCVPVCQR	Ac	
+O15156,B4E3K5,D3DV83,J3KQQ3,Q68DR2,Q96EP2	206	GSPEDDLIGI	unAc	
+O15156,B4E3K5,D3DV83,J3KQQ3,Q68DR2,Q96EP2	212	GSPEDDLIGI	unAc	
+O15156,B4E3K5,D3DV83,J3KQQ3,Q68DR2,Q96EP2	335	GSPEDDLIGI	unAc	
+Q64321,Q80VV5	210	GSPEDDLIGI	unAc	
+Q64321,Q80VV5	216	GSPEDDLIGI	unAc	
+Q64321,Q80VV5	339	GSPEDDLIGI	unAc	

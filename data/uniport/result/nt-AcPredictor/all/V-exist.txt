@@ -1,0 +1,36 @@
+In the Acetylation column, Ac and unAc represents Acetylated and Unacetylated respectively.
+
+*************** Prediction results ***************
+ID	Sequence	Acetylation	Supplement
+Q9ZUR7,B3H589,Q94AA0	36	HSCSHTHFVS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+P16127,Q0WUK7	61	ASLLGTSSSA	Ac	
+Q5XF33,Q8L712,Q9FJ43	56	ASLLGRSPSS	Ac	
+Q9SXJ6,O82421,Q94JY6	71	EMSLRLASSS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q9ZUU4,Q7GA50,Q8L941	63	AASASSLALS	Ac	
+Q9M9Y8	57	DLCFQNPVKC	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+A4D1U4,Q9ULS3	2	VEQGDAAPLL	unAc	
+Q3UHG7,Q3UT59,Q80TI8,Q8C6M2	2	VEQGDAAPLL	unAc	
+Q0PGW2	2	VEQGDAAPLL	unAc	
+Q13115,B2RBU5,D3DSU4,G5E930,Q13524	2	VTMEELREMD	unAc	
+Q8BFV3	2	VTMEELREMD	unAc	
+Q62767	2	VTMEELREMD	unAc	
+O15540,B2R4L1,O14951,Q6IAU7,Q9H047	2	VEAFCATWKL	unAc	
+P51880,Q4FJK4	2	VDAFCATWKL	unAc	
+P55051	2	VDAFCATWKL	unAc	
+P46312,Q9M094	70	ASRIADSLFA	Ac	
+P48628	64	ACTLADSLLL	Ac	
+P48629	66	ESAITISNHV	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q9FY99,Q43728,Q8VZD6	60	AALSSSVTTR	Ac	
+Q8L743,O48695,Q53YG8	67	SSLSCPTYRS	Ac	
+Q9SAC6,Q93VD0,Q940Z0,Q9FPP2,Q9SGX4	76	SNSVVHNLLN	Ac	
+O04921,O23623,Q7GB39	84	NCPAMTASPS	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q9S762	50	SLLLPTNLQQ	unAc	
+Q94F00,Q8LF86,Q9SA15	61	GRSLIFSGNM	unAc	
+Q38933,A8MR53,Q39145	49	DTLLKTPNKL	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q8S9M1,O48521,Q84X37,Q84X38,Q84X39,Q8GY49	2	ALIHGSVPGT	Ac	
+Q9LJL3,Q8RUN6	86	LRTVSCLASR	unAc	The prediction may not be accurate. The sequence may be processed by not NatA or D but NatB, C E or F.
+Q9FGP9	64	SISLKISHIS	Ac	
+Q03940,D6VSH3	2	VAISEVKENP	unAc	
+Q96255,Q1EBU1,Q8L7P0,Q8LBA3	52	AATTNSFLVG	Ac	
+Q8VZ10,A0A1P8APV3,A0A1P8APY8,C0Z278,Q0WQ65,Q8GX08,Q8L9X3,Q9C7X1	57	ALKLTSPPSV	Ac	
+P32068	55	SSSMNVATMQ	Ac	

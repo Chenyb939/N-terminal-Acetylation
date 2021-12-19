@@ -1,0 +1,16 @@
+pre_num:  132
+p_num:  87
+tp_num:  74
+fp_num:  58
+n_num:  135
+tn_num:  90
+fn_num:  45
+-------------------------------
+ACC(accuracy):  0.614232
+error_rate:  0.385768
+sensitive:  0.560606
+SPC(specificity):  0.608108Precision:  0.560606
+Recall:  0.621849
+F1:  0.589641
+MCC:  0.034318
+TPR:  0.621849PPV:  0.560606

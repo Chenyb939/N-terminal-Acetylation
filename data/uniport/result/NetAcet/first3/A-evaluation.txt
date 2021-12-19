@@ -1,0 +1,16 @@
+pre_num:  237
+p_num:  0
+tp_num:  1
+fp_num:  237
+n_num:  711
+tn_num:  474
+fn_num:  237
+-------------------------------
+ACC(accuracy):  0.500527
+error_rate:  0.499473
+sensitive:  0.004202
+SPC(specificity):  0.666667Precision:  0.004202
+Recall:  0.004202
+F1:  0.004202
+MCC:  0.000111
+TPR:  0.004202PPV:  0.004202

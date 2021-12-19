@@ -1,0 +1,16 @@
+pre_num:  34
+p_num:  14
+tp_num:  1
+fp_num:  33
+n_num:  60
+tn_num:  40
+fn_num:  20
+-------------------------------
+ACC(accuracy):  0.436170
+error_rate:  0.563830
+sensitive:  0.029412
+SPC(specificity):  0.547945Precision:  0.029412
+Recall:  0.047619
+F1:  0.036364
+MCC:  0.003097
+TPR:  0.047619PPV:  0.029412

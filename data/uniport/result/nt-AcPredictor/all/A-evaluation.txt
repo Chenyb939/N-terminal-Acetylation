@@ -1,0 +1,16 @@
+pre_num:  296
+p_num:  243
+tp_num:  210
+fp_num:  86
+n_num:  159
+tn_num:  106
+fn_num:  53
+-------------------------------
+ACC(accuracy):  0.694505
+error_rate:  0.305495
+sensitive:  0.709459
+SPC(specificity):  0.552083Precision:  0.709459
+Recall:  0.798479
+F1:  0.751342
+MCC:  0.038409
+TPR:  0.798479PPV:  0.709459

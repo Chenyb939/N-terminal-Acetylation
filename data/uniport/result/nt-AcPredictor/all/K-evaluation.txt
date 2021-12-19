@@ -1,0 +1,16 @@
+pre_num:  1569
+p_num:  668
+tp_num:  3
+fp_num:  1566
+n_num:  2703
+tn_num:  1802
+fn_num:  901
+-------------------------------
+ACC(accuracy):  0.422519
+error_rate:  0.577481
+sensitive:  0.001912
+SPC(specificity):  0.535036Precision:  0.001912
+Recall:  0.003319
+F1:  0.002426
+MCC:  0.000031
+TPR:  0.003319PPV:  0.001912

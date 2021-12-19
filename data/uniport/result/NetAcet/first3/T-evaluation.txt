@@ -1,0 +1,16 @@
+pre_num:  23
+p_num:  0
+tp_num:  1
+fp_num:  23
+n_num:  69
+tn_num:  46
+fn_num:  23
+-------------------------------
+ACC(accuracy):  0.505376
+error_rate:  0.494624
+sensitive:  0.041667
+SPC(specificity):  0.666667Precision:  0.041667
+Recall:  0.041667
+F1:  0.041667
+MCC:  0.003547
+TPR:  0.041667PPV:  0.041667

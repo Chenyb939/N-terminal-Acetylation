@@ -1,0 +1,25 @@
+# Sequence		 #     Context   Score      Acetylation
+# -----------------------------------------------------------------
+A9CB74_2		 no Ala, Gly, Ser or Thr at positions 1-3
+O07434,D9CH46,F2GLY8		 no Ala, Gly, Ser or Thr at positions 1-3
+O97572_2		 no Ala, Gly, Ser or Thr at positions 1-3
+P08642_2		 no Ala, Gly, Ser or Thr at positions 1-3
+P09527,Q4AEF6_2		 no Ala, Gly, Ser or Thr at positions 1-3
+P18067_2		 no Ala, Gly, Ser or Thr at positions 1-3
+P32316,D6VPY5_2		 no Ala, Gly, Ser or Thr at positions 1-3
+P51149,A8K3V6,Q9NWJ0		 no Ala, Gly, Ser or Thr at positions 1-3
+P51150_2		 no Ala, Gly, Ser or Thr at positions 1-3
+P70290_2		 no Ala, Gly, Ser or Thr at positions 1-3
+Q00013,B4DZV5,G3XAI1		 no Ala, Gly, Ser or Thr at positions 1-3
+Q14155,B1ALK6,B1ALK8		 no Ala, Gly, Ser or Thr at positions 1-3
+Q17QN6_2		 no Ala, Gly, Ser or Thr at positions 1-3
+Q38929,Q42552,Q9FFE1		 no Ala, Gly, Ser or Thr at positions 1-3
+Q3T0F5_2		 no Ala, Gly, Ser or Thr at positions 1-3
+Q5E9X4,Q17QQ7_2		 no Ala, Gly, Ser or Thr at positions 1-3
+Q5R9Y4_2		 no Ala, Gly, Ser or Thr at positions 1-3
+Q5RDW4_2		 no Ala, Gly, Ser or Thr at positions 1-3
+Q5RJR8,Q63742_2		 no Ala, Gly, Ser or Thr at positions 1-3
+Q8WWW0,A8K1E6,Q5SY32		 no Ala, Gly, Ser or Thr at positions 1-3
+Q922Q8,Q3TJ35,Q3TLC7		 no Ala, Gly, Ser or Thr at positions 1-3
+Q96AG4,B2RE83,D3DTX8		 no Ala, Gly, Ser or Thr at positions 1-3
+Q9LSF6,Q94JS5_2		 no Ala, Gly, Ser or Thr at positions 1-3

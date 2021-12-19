@@ -1,0 +1,5 @@
+In the Acetylation column, Ac and unAc represents Acetylated and Unacetylated respectively.
+
+*************** Prediction results ***************
+ID	Sequence	Acetylation	Supplement
+P53461	3	CDEDVAALVV	Ac	
