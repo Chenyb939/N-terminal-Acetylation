@@ -23,18 +23,22 @@ This will create a new environment named `MTNA`. This environment needs to be ac
 
 The data schema to run our code is as follows: 
 ```
-[sample_name]/
- |__spatial/
- |    |__tissue_positions_list file
- |    |__scalefactors_json file
- |__gene expression file
- |__annotation file: [sample_name]_annotation.csv (optional)
-
-model/ (optional)
- |__segmentation model file 
+[N-TERMINAL-ACETYLATION]/
+ |5-fold-data/
+ |  |__1.fa fasta file
+ |  |__2.fa fasta file
+ |  |__3.fa fasta file
+ |  |__4.fa fasta file
+ |  |__5.fa fasta file
+ |
+ |test_data/
+ |  |__test.fa fasta file
+ |
+ |model/
+ |  |__checkpoint.pt pt file
 ```
 
-We provide a human pre-trained model at the fold`model`. This provided model is trained on the dataset we discuss in the manuscript. Running `test.py`(see below) will use pre-trained model. 
+We provide a human pre-trained model at the fold `model`. This provided model is trained on the dataset we discuss in the manuscript. Running `test.py`(see below) will use pre-trained model. 
 ```
 python test.py
 ```
@@ -44,26 +48,19 @@ python test.py
 Before training the data shuould be pleased in the corresponding folders as described below.
 
 ```
-[training_data_folder]
-|__[sample_name_1]/
-|    |__spatial/
-|    |    |__tissue_positions_list file
-|    |    |__scalefactors_json file|
-|    |__gene expression file
-|    |__annotation file: [sample_name_1]_annotation.csv
-|__[sample_name_2]/
-|    |__spatial/
-|    |    |__tissue_positions_list file
-|    |    |__scalefactors_json file|
-|    |__gene expression file
-|    |__annotation file: [sample_name_2]_annotation.csv
-|    ...
-|__[sample_name_n]/
-|    |__spatial/
-|    |    |__tissue_positions_list file
-|    |    |__scalefactors_json file|
-|    |__gene expression file
-|    |__annotation file: [sample_name_n]_annotation.csv 
+[N-TERMINAL-ACETYLATION]/
+ |5-fold-data/
+ |  |__1.fa fasta file
+ |  |__2.fa fasta file
+ |  |__3.fa fasta file
+ |  |__4.fa fasta file
+ |  |__5.fa fasta file
+ |
+ |test_data/
+ |  |__test.fa fasta file
+ |
+ |model/
+ |  |__checkpoint.pt pt file
 ```
 ## Training
 After prepared the data,  you can use the `train.py` to train  the custom model. 

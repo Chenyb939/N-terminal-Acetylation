@@ -330,7 +330,7 @@ if __name__ == '__main__':
         sequence2 = []
         label2 = []
         divide = folds
-        checkpoint='checkpoint_ensemble'+divide+'.pt'
+        checkpoint='./model/checkpoint_ensemble'+divide+'.pt'
         divide_list = ['1', '2', '3', '4', '5']
         divide_list.remove(divide)
         for i in divide_list:

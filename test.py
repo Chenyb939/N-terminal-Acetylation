@@ -202,7 +202,7 @@ class CNNnet(torch.nn.Module):
 
 if __name__ == '__main__':
     for divide in ['1','2','3','4','5']:
-        checkpoint='checkpoint_ensemble'+divide+'.pt'
+        checkpoint='./model/checkpoint.pt'
         domain=[0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5]
         root_path=r'example-data'
         domain=iter(domain)
