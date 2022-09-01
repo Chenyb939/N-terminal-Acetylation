@@ -1,7 +1,7 @@
 <font size="6">MTNA: A Deep Learning based Predictor for
 Identifying Multiple Types of N-terminal Protein
 Acetylated Sites</font>
-![structure](structure.png)
+![structure](https://github.com/Chenyb939/N-terminal-Acetylation/blob/master/structure.png?raw=true)
 # User Guide 
 - [User Guide](#user-guide)
 - [Installation](#installation)
