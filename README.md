@@ -1,6 +1,4 @@
-<big><font size="7">MTNA: A Deep Learning based Predictor for
-Identifying Multiple Types of N-terminal Protein
-Acetylated Sites</font></big>
+# <big><font size="7">MTNA: A Deep Learning based Predictor for Identifying Multiple Types of N-terminal Protein Acetylated Sites</font></big>
 
 ![](https://github.com/Chenyb939/N-terminal-Acetylation/blob/master/structure.png?raw=true)
 
