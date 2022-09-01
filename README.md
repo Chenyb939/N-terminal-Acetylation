@@ -2,7 +2,7 @@
 Identifying Multiple Types of N-terminal Protein
 Acetylated Sites</font></big>
 
-![]([structure.png](https://github.com/Chenyb939/N-terminal-Acetylation/blob/master/structure.png?raw=true))
+![](https://github.com/Chenyb939/N-terminal-Acetylation/blob/master/structure.png?raw=true)
 
 # User Guide 
 - [User Guide](#user-guide)
